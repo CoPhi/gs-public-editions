@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<unit>
+    <id>fr-09-pherc-327</id>
+    <creator>Philodemus || Verhasselt, Gertjan</creator>
+    <createdAt>1687878884629</createdAt>
+    <title>History of the Eleatic and the Atomistic Schools || Fr. 9 PHerc. 327 </title>
+    <target>pherc-327</target>
+    <children>
+        <child>fr-09-pherc-327-dip-app</child>
+        <child>fr-09-pherc-327-dip-sources</child>
+        <child>fr-09-pherc-327-dip-tr</child>
+        <child>fr-09-pherc-327-lit-app</child>
+        <child>fr-09-pherc-327-lit-tr</child>
+        <child>fr-09-pherc-327-lit-trad</child>
+    </children>
+</unit>

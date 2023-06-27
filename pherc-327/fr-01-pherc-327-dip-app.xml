@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>fr-01-pherc-327-dip-app</id>
+    <creator>Philodemus || Verhasselt, Gertjan</creator>
+    <createdAt>1687520811345</createdAt>
+    <title>History of the Eleatic and the Atomistic Schools || Fr. 1 PHerc. 327 || Diplomatic Apparatus</title>
+    <target>fr-01-pherc-327</target>
+    <children/>
+    <dsl>
+        <content>
+1 ]μονευειν[ N: ]μονευϲιν[ O        2 ]ηϲγεγονε[ N: ]ηϲγεγε̣ν[ O        3 ]δ̣ημοκριτοϲ[ N: ]ημοκριτο[ inf. horiz. O        4 ]ωεντοιϲϲιλλοιϲ[ O: ]ωεντοιϲ[()]λλοιϲ[ N        5 ]αμιδημ̣[ O: ]αμιδην̣[ N        6 ϲυ desc. O: ]υ (λ, α, δ) N       α[ inf. vert. O: [N]        8 ]ιλευ[ N: ]λευ[ O
+
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

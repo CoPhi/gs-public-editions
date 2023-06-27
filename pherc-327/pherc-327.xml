@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>pherc-327</id>
+    <creator>Philodemus || Verhasselt, Gertjan</creator>
+    <createdAt>1687520811305</createdAt>
+    <title>History of the Eleatic and the Atomistic Schools || PHerc. 327</title>
+    <target/>
+    <children>
+        <child>fr-01-pherc-327</child>
+        <child>fr-02-pherc-327</child>
+        <child>fr-03-pherc-327</child>
+        <child>fr-04a-pherc-327</child>
+        <child>fr-04b-pherc-327</child>
+        <child>fr-05a-pherc-327</child>
+        <child>fr-05b-pherc-327</child>
+        <child>fr-06a-pherc-327</child>
+        <child>fr-06b-pherc-327</child>
+        <child>fr-06c-pherc-327</child>
+        <child>fr-06d-pherc-327</child>
+        <child>fr-07-pherc-327</child>
+        <child>fr-08a-pherc-327</child>
+        <child>fr-08b-pherc-327</child>
+        <child>fr-09-pherc-327</child>
+        <child>fr-10-pherc-327</child>
+        <child>fr-11a-pherc-327</child>
+        <child>fr-11b-pherc-327</child>
+        <child>fr-11c-pherc-327</child>
+        <child>fr-12-pherc-327</child>
+        <child>fr-13-pherc-327</child>
+        <child>fr-14-pherc-327</child>
+    </children>
+</unit>
