@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>kol-χ-pherc-1021</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691590242636</createdAt>
+    <title>Academicorum Index || Kol. Χ PHerc. 1021 </title>
+    <target>pherc-1021</target>
+    <children>
+        <child>kol-χ-pherc-1021-dip-app</child>
+        <child>kol-χ-pherc-1021-dip-sources</child>
+        <child>kol-χ-pherc-1021-dip-tr</child>
+        <child>kol-χ-pherc-1021-lit-app</child>
+        <child>kol-χ-pherc-1021-lit-tr</child>
+        <child>kol-χ-pherc-1021-lit-trad</child>
+    </children>
+</unit>

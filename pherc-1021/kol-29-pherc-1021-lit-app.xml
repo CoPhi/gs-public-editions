@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>kol-29-pherc-1021-lit-app</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691838304171</createdAt>
+    <title>Academicorum Index || Kol. 29 - PHerc. 1021 || Literary Apparatus</title>
+    <target>kol-29-pherc-1021</target>
+    <children/>
+    <dsl>
+        <content>
+
+
+
+
+
+
+
+
+
+1 KF     2 Gomperz     9 Spengel     10 τ᾿ οὐ ⌈ϲ⌉χ[ὼν ἐτῶν vel οὐ⟦⌈ϲ⌉⟧χ (Wilamowitz) [αἱρετῶν vel οὐ⟦⌈ϲ⌉⟧χ (Wilamowitz) ὡϲ ἐτῶν conieci: οὐ ⌈ϲ⌉χ[ημάτων Puglia     11 π̣ό̣[λ]λ᾿ [ἐκ]τ̣[ι]θ̣ε̣ὶ̣ϲ̣ KF:[ἐπι]τ̣[ι]θ̣ε̣ὶ̣ϲ̣ conieci     12-17 Mekler     18 ν]ό̣[ϲωι conieci: β]ί̣[ον Mekler     21 KF
+
+
+34-38 KF     36 με]τ̣⌈α͙⌉ϲχὼν vel π]ρ̣⌈ο͙⌉ϲχὼν conieci     39 ἔτ᾿] Ἀ̣[κα]δ̣ήμ̣ε̣[ια]ν τό̣τε KF (init. τὴν fort. spat. long. conieci)    [τ]⌈οῦ Gomperz     40 [διὰ] Gomperz     41 τ⌈ὴν ἐκ̣εῖ | πρ͙⌉ῶ̣τοϲ KF     43 ἡ⌉γ̣η̣σ̣α̣[- vel ἦ⌉ν̣ κ̣α̣[ὶ τό]τ̣᾿ (πο]τ̣᾿) ἔ[ριϲ vel ἦ⌉ν γ̣ὰ̣[ρ κρά]τ̣ε[ροϲ conieci    [ ἡγήϲατο conieci    
+
+
+Parallelen: Kol. 25,36-43 (Dublette: Kol. 29,5-18 = Kol. 26,34-45)   
+Quellen/Fragmente: Apollodor, Chronica IV; FGrH 244 F 53 und 54; ApollVers 56-70; Karneades T 3a
+Anmerkung: Die Vertikalen im Text markieren Anfang/Ende der Trimeter von Apollodors Chronica. Sie wurden zur Orientierung in die Edition gesetzt und finden sich nicht im Original (P).  
+</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>
