@@ -1,5 +1,5 @@
-# gs-public-editions
-GreekSchools repositories for the public editions in XML file formats.
+# PHerc. 1691
+XML files for the public editions
 
 ## License
 
