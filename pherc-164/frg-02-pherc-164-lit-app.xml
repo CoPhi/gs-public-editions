@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>frg-02-pherc-164-lit-app</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691925409636</createdAt>
+    <title>Academicorum Index || frg. 2 - PHerc. 164 || Literary Apparatus</title>
+    <target>frg-02-pherc-164</target>
+    <children/>
+    <dsl>
+        <content>4 νέοι, ἐγω ϲε Gaiser     6 [ο]⌈ὐδετέρα⌉[ν Gaiser: ⌈υ δ᾿ ἑτερα⌉[ conieci     7 [ο]ὐ͙δετέρ[αϲ Gaiser: δ᾿ ἑτερ⌉[ conieci</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

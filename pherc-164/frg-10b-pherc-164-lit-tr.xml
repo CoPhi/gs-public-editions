@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>frg-10b-pherc-164-lit-tr</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691925409703</createdAt>
+    <title>Academicorum Index || frg. 10b - PHerc. 164 || Literary Transcription</title>
+    <target>frg-10b-pherc-164</target>
+    <children/>
+    <dsl>
+        <content>.     .     .
+           ][
+           ]ε[]⌈τ⌉α[
+           ]ωι ⌈δ⌉α[
+        .     .     .</content>
+        <language>gs-literary-transcription</language>
+    </dsl>
+</unit>
