@@ -30,7 +30,7 @@ The contents of this repository are licensed under the
 
 
 ## Credits
-* Principal Investigator: Graziano Ranocchia, Università di Pisa.
+* Principal Investigator: Graziano Ranocchia, Università di Pisa
 
 * Logo design: Laura Attisani, Consiglio Nazionale delle Ricerche, Istituto di Scienze del Patrimonio Culturale
 
