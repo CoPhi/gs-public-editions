@@ -7,13 +7,7 @@
     <target>kol-31-pherc-1021</target>
     <children/>
     <dsl>
-        <content>
-
-
-
-3-4 Gomperz 1891     5 Gomperz 1891: τ̣⸍⌈ότ͙᾿⌉ conieci     6-8 Gomperz 1891     8 fort. sine correctione (πολύ τ᾿ ἐν)     9 ὢ⌈ν͙⌉ Jacoby     ἐ̣π̣ὶ̣ conieci: ἄ̣ν̣ε̣[υ Jacoby     9-10 ϲχο̣⌈λ͙⌉ῆϲ Mekler: ὁ̣λ̣ο̣|ϲχε̣⌈ρ̣⌉ὴϲ conieci, cetera Mekler     10 ἄλλωϲ Bücheler: ἀλλ᾿ ὡϲ Essler     11 περιου̣σ̣ί̣α̣‹ι› KF     12 ἐ⌈γ͙έ͙ν͙ε͙τ⌉ KF     13 ἀ̣π͙⌉ὸ ⌈μ⌉η̣⌈χα͙ν͙⌉[ῆϲ vel ἀ̣π͙⌉ὸ ⌈μ⌉η̣⌈δ͙ε͙ν͙⌉[ὸϲ conieci     14 fin. κ̣⌈έ̣ντρω⌉[ι conieci     15 τε] κ̣̣αὶ β̣ί̣αι vel α ἰδ̣ί̣αι conieci    πρὸϲ α̣⌈ὐ͙⌉τὸν KF    fin. τ[ὴν vel τ᾿ [ἐν conieci     16 Ἀκ[α]δημ̣είαι dubit. Mekler, cetera KF     16-17 ὕ⌈ϲ⌉[τε|⌈ρ͙ο͙⌉ν̣ conieci     17-20 KF   
-23 ζῆν conieci     24-25 ⌈τ⌉[οὺϲ ἀ]κ̣ρ̣ο̣|ωμ̣έν̣ο̣υϲ· KF     25 ⌈καλ⌉ο̣κ[αγα]θ̣[ί]α̣ν KF     26 δ[ὲ] μ̣ᾶλ̣λ̣ο̣⌈ν͙ KF     ἐπιεικ͙ῆ⌉[ vel ἐπιεικ͙ὴ⌉[ϲ Ranocchia: ἐπιεί׳ִκ͙⟦η⟧⸌ε⸍⌉[ι]α̣ν̣ conieci      27 ἢ τ̣[ὴν] conieci    με̣τ̣᾿ ἀ̣φε̣λ̣ε̣ί̣αϲ KF     28 paragraphum KF    ἐ̣ν̣ τ̣ῶι conieci    βίωι KF     35-36 κ̣α̣⌈τὰ⌉ τὴ̣ν ⌈Ἀλ͙⌉ε̣ξ̣ά̣ν̣|δρει̣α̣ν̣ KF     36 [ἐ]λλογιμώτα̣τ̣ο̣ϲ̣ conieci: [ἐ]λλογιμώτα̣τ̣ο̣ι̣ Mekler     45 ε[ἰ]ϲ τὰϲ̣ KF 
-
+        <content>3-4 Gomperz 1891     5 Gomperz 1891: τ̣⸍⌈ότ͙᾿⌉ conieci     6-8 Gomperz 1891     8 fort. sine correctione (πολύ τ᾿ ἐν)     9 ὢ⌈ν͙⌉ Jacoby     ἐ̣π̣ὶ̣ conieci: ἄ̣ν̣ε̣[υ Jacoby     9-10 ϲχο̣⌈λ͙⌉ῆϲ Mekler: ὁ̣λ̣ο̣|ϲχε̣⌈ρ̣⌉ὴϲ conieci, cetera Mekler     10 ἄλλωϲ Bücheler: ἀλλ᾿ ὡϲ Essler     11 περιου̣σ̣ί̣α̣‹ι› KF     12 ἐ⌈γ͙έ͙ν͙ε͙τ⌉ KF     13 ἀ̣π͙⌉ὸ ⌈μ⌉η̣⌈χα͙ν͙⌉[ῆϲ vel ἀ̣π͙⌉ὸ ⌈μ⌉η̣⌈δ͙ε͙ν͙⌉[ὸϲ conieci     14 fin. κ̣⌈έ̣ντρω⌉[ι conieci     15 τε] κ̣̣αὶ β̣ί̣αι vel α ἰδ̣ί̣αι conieci    πρὸϲ α̣⌈ὐ͙⌉τὸν KF    fin. τ[ὴν vel τ᾿ [ἐν conieci     16 Ἀκ[α]δημ̣είαι dubit. Mekler, cetera KF     16-17 ὕ⌈ϲ⌉[τε|⌈ρ͙ο͙⌉ν̣ conieci     17-20 KF     23 ζῆν conieci     24-25 ⌈τ⌉[οὺϲ ἀ]κ̣ρ̣ο̣|ωμ̣έν̣ο̣υϲ· KF     25 ⌈καλ⌉ο̣κ[αγα]θ̣[ί]α̣ν KF     26 δ[ὲ] μ̣ᾶλ̣λ̣ο̣⌈ν͙ KF     ἐπιεικ͙ῆ⌉[ vel ἐπιεικ͙ὴ⌉[ϲ Ranocchia: ἐπιεί׳ִκ͙⟦η⟧⸌ε⸍⌉[ι]α̣ν̣ conieci      27 ἢ τ̣[ὴν] conieci    με̣τ̣᾿ ἀ̣φε̣λ̣ε̣ί̣αϲ KF     28 paragraphum KF    ἐ̣ν̣ τ̣ῶι conieci    βίωι KF     35-36 κ̣α̣⌈τὰ⌉ τὴ̣ν ⌈Ἀλ͙⌉ε̣ξ̣ά̣ν̣|δρει̣α̣ν̣ KF     36 [ἐ]λλογιμώτα̣τ̣ο̣ϲ̣ conieci: [ἐ]λλογιμώτα̣τ̣ο̣ι̣ Mekler     45 ε[ἰ]ϲ τὰϲ̣ KF 
 
 Quellen/Fragmente: Apollodor, Chronica IV; FGrH 244 F 57,58,59; ApollVers 77-94; Melanthios (TrGF 131) T 5; Karneades T 3a
 Anmerkung: Die Vertikalen im Text markieren Anfang/Ende der Trimeter von Apollodors Chronica. Sie wurden zur Orientierung in die Edition gesetzt und finden sich nicht im Original (P). 
