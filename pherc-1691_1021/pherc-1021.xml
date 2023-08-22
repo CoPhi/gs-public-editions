@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>pherc-1021</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691590242041</createdAt>
+    <title>Academicorum Index || PHerc. 1691/1021</title>
+    <target/>
+    <metadata>
+        <unit>
+    <id>pherc-1021-conspectus-signorum</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Signorum || PHerc. 1691/1021</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content> litterae incertae cuius numerus definiri potest
+α̣β̣γ̣ litterae incompletae, quae non aliter legi possunt (in transcriptione diplomatica) litterae dubiae quae aliter legi possunt   (in transcriptione litteraria)
+⌈αβγ⌉ litterae alterutrius vel utriusque apographi
+⟦αβγ⟧ litterae a librario deletae
+⸌αβγ⸍ litterae a librario additae
+{αβγ} litterae ab editore deletae
+‹αβγ› litterae ab editore additae
+[αβγ] litterae ab editore suppletae
+&lt;strong&gt;αβγ&lt;/strong&gt; litterae suppositae vel superpositae ab editore recognitae et loco suo collocatae
+α͙β͙γ͙	litterae apographi ab editore mutatae
+[] litterae deperditae
+[₍₎] una et dimidia littera deperditae
+[] nulla vel una littera deperdita
+[    nulla vel una vel etiam duae litterae deperdiate (in fine lineae)
+  ̲ ̲     paragraphus
+ diple obelismene
+⸆ spatium vacuum
+| finis vel initium lineae (in apparatu)
+|| finis vel initium columnae (in apparatu)
+</content>
+        <language>conspectus-signorum</language>
+    </dsl>
+    </unit>
+     <unit>
+    <id>pherc-1021-conspectus-siglorum</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Siglorum || PHerc. 1691/1021</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content>P    PHerc. 1691/1021
+O    Oxforder Disegno von PHerc. 1021 (Kol. 1-32, M-Z)
+N    Neapolitanisches Disegno von PHerc. 1021 (Kol. 1-36)
+I    Druckfahnen  (VH²) von PHerc. 1021 (Kol. 1-36)
+VH²    Herculanensium voluminum quae supersunt, Neapel, 1862, I,162-197
+HSI    Hyperspektralbilder (Hyperspectral Images) 
+
+cr.    ‘cornice’
+pz.    ‘pezzo’
+
+Ti. = Tinte (Position/Höhe in Zeile/Ausmaß/Form nicht eindeutig bestimmbar)
+Vert. = Vertikale
+Horiz. = Horizontale 
+Rund. = Rundung (Halbkreis/Viertelkreis/Achtelkreis)
+Schräge = steigende Schräge (von links nach rechts aufsteigend – ca. 20-70°)
+Fall.  = fallende Schräge (von rechts nach links absteigend – ca. 20-70°)
+Verbi. = Verbindung (zweier Linien/Elemente)
+Fuß = Fuß eines Buchstabens
+Haken = Haken (ggf. zwei Elemente) 
+Korr. = Korrektur 
+Einfüg. = Einfügung
+Buchst. = Buchstabe(n)
+|| = neues Lemma (Disegni-Buchstaben und unsichere Papyrusbuchstaben beschrieben) 
+
+unten = im unteren Bereich der Zeile
+mittig = im mittleren Bereich der Zeile
+oben = im oberen Bereich der Zeile
+unten/mittig = sowohl im unteren als auch im mittleren Bereich der Zeile
+mittig/oben = sowohl im mittleren als auch im oberen Bereich der Zeile
+unten/oben = sowohl im unteren als auch im oberen Bereich der Zeile
+re. = rechts
+li. = links
+ob. = oberer 
+unt. = unterer
+berühr. =berührend(er)
+wahrs. = wahrscheinlich 
+gerund. = gerundet
+blas. = blasse(s/r), verblasste(s/r)
+and. = andere(s/r)
+und dann = weiter rechts stehend
+
+KF    editor (Kilian Fleischer – lectio vel supplementum in textu)
+conieci    editor (Kilian Fleischer – coniectura in apparatu)
+Bücheler    editio princeps 1869 
+Mekler    editio 1902  
+Gaiser    editio 1988 (editio partialis – col. 1*-17)  
+Dorandi    editio 1991
+
+Alessandrelli    privatim 
+Angiò    apud Puglia 2006
+Anonym. rev.    Anonymer Gutachter Fleischer (2019)
+Apelt    Philologische Wochenschrift 22 (1902)
+Battegazzore    Elenchos 10 (1989)
+Blank    ZPE 162 (2007)  
+Blank per litt.    privatim                    
+Bravo    Bravo 2009 
+Bücheler 1881    Bücheler apud Wilamowitz 1881  
+Bücheler*    Bücheler apud Mekler
+Crönert    Crönert apud Mekler 
+Crönert 1903    Hermes 38 (1903)
+Crönert 1906    Crönert 1906
+De Sanctis 2019    CErc 49 (2019)
+De Sanctis 2022    Proceedings (2022)
+Del Mastro    CErc 42 (2012)
+Delattre    Delattre apud Del Mastro
+Diels    Diels/Schubart 1904 
+Essler    privatim 
+Fowler    privatim
+Gaiser 1963    Gaiser 1963
+Gaiser 1983    CErc 13   1983   
+Giannattasio Andria    CErc 13 1983 
+Gigante    Gigante 1977
+Gigante 1988    Gigante apud Gaiser 
+Gomperz    Gomperz apud Mekler 
+Gomperz 1887    Festschrift Zeller (1887)     
+Gomperz 1882    Wiener Studien 4 (1882)
+Gomperz 1891    SBWienAk  123 (1891)
+Gomperz 1898    Festschrift Benndort (1898)
+Hammerstaedt    Hammerstaedt apud Del Mastro 
+Hatzimichali    privatim
+Heiberg    Heiberg apud Mekler 
+Henry    privatim 
+Jacoby    Jacoby 1929 (FGrHist II B)
+Janko    Janko apud Del Mastro
+Kalligas    apud Kalligas et al. 2020  
+Lasserre    Lasserre  1987
+Lasserre 1966    Lasserre  1966
+Leone    Leone apud Del Mastro 
+Longo Auricchio    Anthropine Sophia 2008
+Luppe    CErc 38 (2008)
+McOsker    privatim 
+Mette    Lustrum 27 (1985)
+Most    privatim
+Praechter    GGA 164 (1902)
+Puglia    privatim  
+Puglia 2000    ZPE 130 (2000)
+Puglia 2005    SEP 2 (2005)
+Puglia 2006    SEP 3 (2006)
+Puglia 2018    Studi Mario Capasso 2018  
+Ranocchia    privatim
+Sauppe    apud Mekler 
+Schenkl    Wochenzeitschrift Klass. Phil. 20 (1903) 
+Schoene    Schoene apud Mekler 
+Schröder    privatim  
+Sedley    privatim
+Sedley 1988    Sedley apud Gaiser
+Spengel    Philologus Supplementband 2 (1863)               
+Speyer    CErc 31 (2001)
+Tarrant    privatim
+Tsouna    apud Kalligas et al. 2020 
+Vassallo    privatim 
+Verhasselt    Verhasselt 2018 
+Verhasselt 2013    CErc 43 (2013)
+Verhasselt 2015    CErc 45 (2015)
+Verhasselt 2017    CErc 47  (2017)
+von Arnim    apud Mekler
+Voutiras    Voutiras apud Dorandi  
+Wilamowitz    apud Mekler
+Wilamowitz 1910    Hermes 45 (1910)
+Wilson    privatim
+
+</content>
+        <language>conspectus-siglorum</language>
+    </dsl>
+    </unit>
+    </metadata>
+    <children>
+        <child>kol-01-pherc-1691</child>
+        <child>kol-02-pherc-1691</child>
+        <child>kol-03-pherc-1691</child>
+        <child>kol-01x-pherc-1021</child>
+        <child>kol-01-pherc-1021</child>
+        <child>kol-02-pherc-1021</child>
+        <child>kol-03-pherc-1021</child>
+        <child>kol-04-pherc-1021</child>
+        <child>kol-05-pherc-1021</child>
+        <child>kol-06-pherc-1021</child>
+        <child>kol-07-pherc-1021</child>
+        <child>kol-08-pherc-1021</child>
+        <child>kol-09-pherc-1021</child>
+        <child>kol-10-pherc-1021</child>
+        <child>kol-11-pherc-1021</child>
+        <child>kol-12-pherc-1021</child>
+        <child>kol-13-pherc-1021</child>
+        <child>kol-14-pherc-1021</child>
+        <child>kol-15-pherc-1021</child>
+        <child>kol-16-pherc-1021</child>
+        <child>kol-17-pherc-1021</child>
+        <child>kol-18-pherc-1021</child>
+        <child>kol-19-pherc-1021</child>
+        <child>kol-20-pherc-1021</child>
+        <child>kol-21-pherc-1021</child>
+        <child>kol-22-pherc-1021</child>
+        <child>kol-23-pherc-1021</child>
+        <child>kol-24-pherc-1021</child>
+        <child>kol-25-pherc-1021</child>
+        <child>kol-26-pherc-1021</child>
+        <child>kol-27-pherc-1021</child>
+        <child>kol-28-pherc-1021</child>
+        <child>kol-29-pherc-1021</child>
+        <child>kol-30-pherc-1021</child>
+        <child>kol-31-pherc-1021</child>
+        <child>kol-32-pherc-1021</child>
+        <child>kol-33-pherc-1021</child>
+        <child>kol-34-pherc-1021</child>
+        <child>kol-35-pherc-1021</child>
+        <child>kol-36-pherc-1021</child>
+        <child>kol-ζ-pherc-1021</child>
+        <child>kol-y-pherc-1021</child>
+        <child>kol-χ-pherc-1021</child>
+        <child>kol-v-pherc-1021</child>
+        <child>kol-t-pherc-1021</child>
+        <child>kol-s-pherc-1021</child>
+        <child>kol-r-pherc-1021</child>
+        <child>kol-q-pherc-1021</child>
+        <child>kol-p-pherc-1021</child>
+        <child>kol-o-pherc-1021</child>
+        <child>kol-n-pherc-1021</child>
+        <child>kol-m-pherc-1021</child>
+    </children>
+</unit>

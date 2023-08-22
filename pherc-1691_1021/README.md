@@ -1,4 +1,4 @@
-# PHerc. 1021
+# PHerc. 1691/1021
 [![GreekSchools Logo][gs-logo]][gs]
 
 This repository hosts the XML documents for the open access critical edition of the PHerc 1021 within the GreekSchools ERC project. 
