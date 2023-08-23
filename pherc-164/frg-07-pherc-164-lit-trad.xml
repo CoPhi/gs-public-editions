@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>frg-07-pherc-164-lit-trad</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691925409670</createdAt>
+    <title>Academicorum Index || frg. 7 - PHerc. 164 || Literary Translation</title>
+    <target>frg-07-pherc-164</target>
+    <children/>
+    <dsl>
+        <content>… Timolaos von Kyzikos, Kalligenes, Timolaos von Athen, welche Speusipp in seinem Leichenschmaus Platons nennt, Archytas von Tarent, Chion, der den…
+        </content>
+        <language>gs-literary-translation</language>
+    </dsl>
+</unit>

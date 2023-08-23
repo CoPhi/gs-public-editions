@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>kol-q-pherc-1021-lit-trad</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691838304240</createdAt>
+    <title>Academicorum Index || Kol. Q - PHerc. 1021 || Literary Translation</title>
+    <target>kol-q-pherc-1021</target>
+    <children/>
+    <dsl>
+        <content>
+… starb zur Zeit des (Archons) Philokrates (276/75). Antigonos schreibt also: „Als Polemon starb, übernahm Krates die Schule und wurde als der Leitung würdig beurteilt …
+</content>
+        <language>gs-literary-translation</language>
+    </dsl>
+</unit>

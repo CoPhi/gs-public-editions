@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>frg-04-pherc-164-lit-app</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691925409643</createdAt>
+    <title>Academicorum Index || frg. 4 - PHerc. 164 || Literary Apparatus</title>
+    <target>frg-04-pherc-164</target>
+    <children/>
+    <dsl>
+        <content>1 Gaiser (alia divisione linearum)     2 Crönert     3-6 Gaiser</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

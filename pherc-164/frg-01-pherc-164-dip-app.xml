@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>frg-01-pherc-164-dip-app</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691687869091</createdAt>
+    <title>Academicorum Index || frg. 1 PHerc. 164 || Diplomatic Apparatus</title>
+    <target>frg-01-pherc-164</target>
+    <children/>
+    <dsl>
+        <content>10 Horiz. oben      11  υ Ν1: τ Ν2
+
+Da keine signifikanten Unterschiede zwischen N1 und N2 bestehen, ist nahezu sicher, dass N2 direkt von N1 und nicht von P kopiert wurde. Die Anmerkung in N2 unter dem frg. „non esiste l’ originale” spricht ebenfalls dafür. Die Nummerierung der Fragmente auf der cornice folgt Ν2 und am unteren linken Rand steht: „I frammenti 2 e 3 non esistono gli originali”. Viell. gehört das frg. auch nicht zu PHerc. 164 (siehe Kommentar).</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

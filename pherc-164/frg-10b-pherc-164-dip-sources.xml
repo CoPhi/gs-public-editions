@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>frg-10b-pherc-164-dip-sources</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691687869178</createdAt>
+    <title>Academicorum Index || frg. 10b PHerc. 164 || Diplomatic Sources</title>
+    <target>frg-10b-pherc-164</target>
+    <children/>
+    <dsl>
+        <content>$frg. 10b$ #PHerc. 164# PHerc. 164, cr. 1, frg. 4 sup. =  frg. 4 sup. N²  = frg. 10 Dorandi</content>
+        <language>gs-sources</language>
+    </dsl>
+</unit>

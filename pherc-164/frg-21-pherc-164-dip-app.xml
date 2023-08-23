@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>frg-21-pherc-164-dip-app</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691687869112</createdAt>
+    <title>Academicorum Index || frg. 21 PHerc. 164 || Diplomatic Apparatus</title>
+    <target>frg-21-pherc-164</target>
+    <children/>
+    <dsl>
+        <content>Stratigraphie teils unsicher. Viell. gehören die Enden vom unteren Teil zur nächsten Kolumne.
+
+1 Ti. || Ti.    2 Ti. (Rund.? ο?) || Vert. (?) und Fall. (ν?) || Ti. oben   3 Ti. mittig (selbe Lage?)    4 Ti. oben (ν?)    5 Ti. oben || ε,θ,ο,ϲ    7 Ti. mittig (ε?) || Ti. unten || Vert. unten    8 α,δ,κ,λ || Ti. || Ti. </content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

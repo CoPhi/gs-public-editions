@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>kol-ζ-pherc-1021-dip-app</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691590242619</createdAt>
+    <title>Academicorum Index || Kol. Ζ PHerc. 1021 || Diplomatic Apparatus</title>
+    <target>kol-ζ-pherc-1021</target>
+    <children/>
+    <dsl>
+        <content>Die Enden von Z. 1-8 finden sich auf einem separatem, losem frg. Es ist unsicher, ob sie wirklich zu Kol. Z gehören. Falls ja, ist unsicher, in welchem Abstand sie zum Beginn der Zeilen zu platzieren sind. Auch die Zeilenzuordnung ist unsicher. Ferner, ist die Anzahl der Buchst. pro Zeile unsicher.        
+
+1   Vert. mit Rund. unten (κ wahrs.) || Rundungen (ω wahrs.)     2 leicht gerund. Vert.  3 Ti. (Rund.?) oben   4 Vert. mit Horiz. (φ oder ψ?)    5  Schräge    8 γ oder π   10 Vert. mit Rund. oben (β wahrs.)     12 π oder τ || Ti.   13 Rund.    14 Vert.   16 Rund.   17 Ti. unten || Vert.   18 α,δ,λ || Vert.  19 Fall. oben || π oder τ     21  Fall. || Schräge   22 η oder π   
+
+Viell. standen unter Z. 23 noch mehr Zeilen, aber das Disegno spricht nicht dafür. 
+
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

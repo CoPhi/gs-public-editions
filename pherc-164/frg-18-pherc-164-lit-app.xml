@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>frg-18-pherc-164-lit-app</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691925409712</createdAt>
+    <title>Academicorum Index || frg. 18 - PHerc. 164 || Literary Apparatus</title>
+    <target>frg-18-pherc-164</target>
+    <children/>
+    <dsl>
+        <content>legit et agnovit KF</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

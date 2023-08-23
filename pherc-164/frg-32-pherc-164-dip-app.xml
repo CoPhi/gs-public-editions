@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>frg-32-pherc-164-dip-app</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691687869169</createdAt>
+    <title>Academicorum Index || frg. 32 PHerc. 164 || Diplomatic Apparatus</title>
+    <target>frg-32-pherc-164</target>
+    <children/>
+    <dsl>
+        <content>Viell. stand eine weitere Zeile über Z. 1.
+
+1 Ti. unten || Vert. (mit Verbi.? zum vorigen Buchst. gehörig?)    3 Ti. mittig und dann unten (wahrs. Rund.d – ε wahrs.)</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

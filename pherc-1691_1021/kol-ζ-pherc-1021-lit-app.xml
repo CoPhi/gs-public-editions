@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>kol-ζ-pherc-1021-lit-app</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691838304243</createdAt>
+    <title>Academicorum Index || Kol. Ζ - PHerc. 1021 || Literary Apparatus</title>
+    <target>kol-ζ-pherc-1021</target>
+    <children/>
+    <dsl>
+        <content>1-8 fines linearum in separato fragmento, quod fort. non huic columnae/loco adiungendum est     2 Ἀκ]α͙δήμειαν Gomperz: ἀπ]ο͙δημ{ε}ίαν Gaiser     2-3 πυ]|θόμενο̣[ϲ conieci     4 Πλ]άτων Gomperz     6 φι]λολογίαν KF: ἀ]π͙ολογίαν Wilamowitz: ὁ]μ͙ολογίαν Gaiser     9-10 θεω]|ροῦντι Gomperz     10 παραβ̣α͙λ͙[ὼν Mekler     11 Mekler     12 τοὺ[ϲ φίλουϲ Prächter     13 [πα]ράβο͙[λον Mekler     14 ὑπὲρ τῆϲ ὀλ]ιγαρ[χίαϲ Gaiser     21 ἀλ]λ̣ὰ καὶ Mekler  
+
+Parallelen: Plat. ep. 7 350b; D.L. 3,25
+Anmerkung: Diese Kolumne befindet sich etwa hinter Kol. 1* des Rekto. Es ist nicht ausgeschlossen, dass sie den Text von Kol. X oder Kol. Y fortführt
+</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

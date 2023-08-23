@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>pherc-164</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691687869030</createdAt>
+    <title>Academicorum Index || PHerc. 164</title>
+    <target/>
+    <metadata>
+        <unit>
+    <id>pherc-164-conspectus-signorum</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Signorum || PHerc. 164</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content> litterae incertae cuius numerus definiri potest
+α̣β̣γ̣ litterae incompletae, quae non aliter legi possunt (in transcriptione diplomatica) litterae dubiae quae aliter legi possunt   (in transcriptione litteraria)
+⌈αβγ⌉ litterae alterutrius vel utriusque apographi
+⟦αβγ⟧ litterae a librario deletae
+⸌αβγ⸍ litterae a librario additae
+{αβγ} litterae ab editore deletae
+‹αβγ› litterae ab editore additae
+[αβγ] litterae ab editore suppletae
+&lt;strong&gt;αβγ&lt;/strong&gt; litterae suppositae vel superpositae ab editore recognitae et loco suo collocatae
+α͙β͙γ͙	litterae apographi ab editore mutatae
+[] litterae deperditae
+[₍₎] una et dimidia littera deperditae
+[] nulla vel una littera deperdita
+[    nulla vel una vel etiam duae litterae deperdiate (in fine lineae)
+  ̲ ̲     paragraphus
+ diple obelismene
+⸆ spatium vacuum
+| finis vel initium lineae (in apparatu)
+|| finis vel initium columnae (in apparatu)
+</content>
+        <language>conspectus-signorum</language>
+    </dsl>
+    </unit>
+     <unit>
+    <id>pherc-164-conspectus-siglorum</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Signorum || PHerc. 164</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content>P    PHerc. 164
+N¹    Neapolitanisches Disegno zu PHerc. 164 von Francesco Casanova (frg. 1-6)
+N²    Neapolitanisches Disegno zu PHerc. 164 von Carlo Orazi iunior (frg. 1-16)
+
+cr.  ‘cornice’
+pz.  ‘pezzo’
+
+Für die Abkürzungen in der Spurenbeschreibung siehe PHerc. 1691/1021:
+
+Ti. = Tinte (Position/Höhe in Zeile/Ausmaß/Form nicht eindeutig bestimmbar)
+Vert. = Vertikale
+Horiz. = Horizontale 
+Rund. = Rundung (Halbkreis/Viertelkreis/Achtelkreis)
+Schräge = steigende Schräge (von links nach rechts aufsteigend – ca. 20-70°)
+Fall.  = fallende Schräge (von rechts nach links absteigend – ca. 20-70°)
+Verbi. = Verbindung (zweier Linien/Elemente)
+Fuß = Fuß eines Buchstabens
+Haken = Haken (ggf. zwei Elemente) 
+Korr. = Korrektur 
+Einfüg. = Einfügung
+Buchst. = Buchstabe(n)
+|| = neues Lemma (Disegni-Buchstaben und unsichere Papyrusbuchstaben beschrieben) 
+
+unten = im unteren Bereich der Zeile
+mittig = im mittleren Bereich der Zeile
+oben = im oberen Bereich der Zeile
+unten/mittig = sowohl im unteren als auch im mittleren Bereich der Zeile
+mittig/oben = sowohl im mittleren als auch im oberen Bereich der Zeile
+unten/oben = sowohl im unteren als auch im oberen Bereich der Zeile
+re. = rechts
+li. = links
+ob. = oberer 
+unt. = unterer
+berühr. =berührend(er)
+wahrs. = wahrscheinlich 
+gerund. = gerundet
+blas. = blasse(s/r), verblasste(s/r)
+and. = andere(s/r)
+und dann = weiter rechts stehend
+
+KF    editor (Kilian Fleischer – lectio vel supplementum in textu)
+conieci    editor (Kilian Fleischer – coniectura in apparatu)
+Bücheler    editio princeps 1869 
+Mekler    editio 1902  
+Gaiser    editio 1988 (editio partialis – col. 1*-17)  
+Dorandi    editio 1991
+
+Alessandrelli    privatim 
+Angiò    apud Puglia 2006
+Anonym. rev.    Anonymer Gutachter Fleischer (2019)
+Apelt    Philologische Wochenschrift 22 (1902)
+Battegazzore    Elenchos 10 (1989)
+Blank    ZPE 162 (2007)  
+Blank per litt.    privatim                    
+Bravo    Bravo 2009 
+Bücheler 1881    Bücheler apud Wilamowitz 1881  
+Bücheler*    Bücheler apud Mekler
+Crönert    Crönert apud Mekler 
+Crönert 1903    Hermes 38 (1903)
+Crönert 1906    Crönert 1906
+De Sanctis 2019    CErc 49 (2019)
+De Sanctis 2022    Proceedings (2022)
+Del Mastro    CErc 42 (2012)
+Delattre    Delattre apud Del Mastro
+Diels    Diels/Schubart 1904 
+Essler    privatim 
+Fowler    privatim
+Gaiser 1963    Gaiser 1963
+Gaiser 1983    CErc 13   1983   
+Giannattasio Andria    CErc 13 1983 
+Gigante    Gigante 1977
+Gigante 1988    Gigante apud Gaiser 
+Gomperz    Gomperz apud Mekler 
+Gomperz 1887    Festschrift Zeller (1887)     
+Gomperz 1882    Wiener Studien 4 (1882)
+Gomperz 1891    SBWienAk  123 (1891)
+Gomperz 1898    Festschrift Benndort (1898)
+Hammerstaedt    Hammerstaedt apud Del Mastro 
+Hatzimichali    privatim
+Heiberg    Heiberg apud Mekler 
+Henry    privatim 
+Jacoby    Jacoby 1929 (FGrHist II B)
+Janko    Janko apud Del Mastro
+Kalligas    apud Kalligas et al. 2020  
+Lasserre    Lasserre  1987
+Lasserre 1966    Lasserre  1966
+Leone    Leone apud Del Mastro 
+Longo Auricchio    Anthropine Sophia 2008
+Luppe    CErc 38 (2008)
+McOsker    privatim 
+Mette    Lustrum 27 (1985)
+Most    privatim
+Praechter    GGA 164 (1902)
+Puglia    privatim  
+Puglia 2000    ZPE 130 (2000)
+Puglia 2005    SEP 2 (2005)
+Puglia 2006    SEP 3 (2006)
+Puglia 2018    Studi Mario Capasso 2018  
+Ranocchia    privatim
+Sauppe    apud Mekler 
+Schenkl    Wochenzeitschrift Klass. Phil. 20 (1903) 
+Schoene    Schoene apud Mekler 
+Schröder    privatim  
+Sedley    privatim
+Sedley 1988    Sedley apud Gaiser
+Spengel    Philologus Supplementband 2 (1863)               
+Speyer    CErc 31 (2001)
+Tarrant    privatim
+Tsouna    apud Kalligas et al. 2020 
+Vassallo    privatim 
+Verhasselt    Verhasselt 2018 
+Verhasselt 2013    CErc 43 (2013)
+Verhasselt 2015    CErc 45 (2015)
+Verhasselt 2017    CErc 47  (2017)
+von Arnim    apud Mekler
+Voutiras    Voutiras apud Dorandi  
+Wilamowitz    apud Mekler
+Wilamowitz 1910    Hermes 45 (1910)
+Wilson    privatim
+
+</content>
+        <language>conspectus-siglorum</language>
+    </dsl>
+    </unit>
+    </metadata>
+    <children>
+        <child>frg-01-pherc-164</child>
+        <child>frg-02-pherc-164</child>
+        <child>frg-03-pherc-164</child>
+        <child>frg-04-pherc-164</child>
+        <child>frg-05-pherc-164</child>
+        <child>frg-06-pherc-164</child>
+        <child>frg-07-pherc-164</child>
+        <child>frg-08-pherc-164</child>
+        <child>frg-09-pherc-164</child>
+        <child>frg-10a-pherc-164</child>
+        <child>frg-10b-pherc-164</child>
+        <child>frg-10c-pherc-164</child>
+        <child>frg-11-pherc-164</child>
+        <child>frg-12-pherc-164</child>
+        <child>frg-13-pherc-164</child>
+        <child>frg-14-pherc-164</child>
+        <child>frg-15-pherc-164</child>
+        <child>frg-16-pherc-164</child>
+        <child>frg-17-pherc-164</child>
+        <child>frg-18-pherc-164</child>
+        <child>frg-19-pherc-164</child>
+        <child>frg-20-pherc-164</child>
+        <child>frg-21-pherc-164</child>
+        <child>frg-22-pherc-164</child>
+        <child>frg-23a-pherc-164</child>
+        <child>frg-23b-pherc-164</child>
+        <child>frg-23c-pherc-164</child>
+        <child>frg-23d-pherc-164</child>
+        <child>frg-23e-pherc-164</child>
+        <child>frg-24-pherc-164</child>
+        <child>frg-25-pherc-164</child>
+        <child>frg-26-pherc-164</child>
+        <child>frg-27-pherc-164</child>
+        <child>frg-28-pherc-164</child>
+        <child>frg-29-pherc-164</child>
+        <child>frg-30a-pherc-164</child>
+        <child>frg-30b-pherc-164</child>
+        <child>frg-30c-pherc-164</child>
+        <child>frg-31-pherc-164</child>
+        <child>frg-32-pherc-164</child>
+        <child>frg-33-pherc-164</child>
+    </children>
+</unit>

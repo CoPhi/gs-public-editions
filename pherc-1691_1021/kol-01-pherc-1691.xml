@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>kol-01-pherc-1691</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691432171047</createdAt>
+    <title>Academicorum Index || Kol. a PHerc. 1691 </title>
+    <target>pherc-1021</target>
+    <children>
+        <child>kol-01-pherc-1691-dip-app</child>
+        <child>kol-01-pherc-1691-dip-sources</child>
+        <child>kol-01-pherc-1691-dip-tr</child>
+        <child>kol-01-pherc-1691-lit-app</child>
+        <child>kol-01-pherc-1691-lit-tr</child>
+        <child>kol-01-pherc-1691-lit-trad</child>
+    </children>
+</unit>

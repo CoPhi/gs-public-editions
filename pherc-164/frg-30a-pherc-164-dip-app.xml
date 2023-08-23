@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>frg-30a-pherc-164-dip-app</id>
+    <creator>Philodemus || Fleischer, Kilian J.</creator>
+    <createdAt>1691687869182</createdAt>
+    <title>Academicorum Index || frg. 30a PHerc. 164 || Diplomatic Apparatus</title>
+    <target>frg-30a-pherc-164</target>
+    <children/>
+    <dsl>
+        <content>Anmerkung auf cornice unter frg. 15: „Il fram 15 distrutto il foglio”.
+
+1 Ti.    2 Ti. || Ti. unten || Vert. (leicht gerund.?)   5 Ti. oben || ε,θ,ο,ϲ    5 Vert. unten    6 Ti. || Vert. oben  </content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>
