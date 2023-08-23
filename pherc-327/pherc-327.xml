@@ -5,6 +5,61 @@
     <createdAt>1687520811305</createdAt>
     <title>History of the Eleatic and the Atomistic Schools || PHerc. 327</title>
     <target/>
+    <metadata>
+        <unit>
+    <id>pherc-327-conspectus-signorum</id>
+    <creator>Philodemus || Verhasselt, Gertjan</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Signorum || PHerc. 327</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content> litterae incertae cuius numerus definiri potest
+ α̣β̣γ̣ litterae certae sed haud integrae (transcr. dipl.) vel litterae dubiae quae aliter legi possunt (transcr. litt.)
+⌈αβγ⌉ litterae alterutrius vel utriusque apographi (transcr. dipl.)
+⟦αβγ⟧ litterae a librario deletae (transcr. dipl.)
+⸌αβγ⸍ litterae a librario additae (transcr. dipl.)
+‹αβγ› litterae ab editore additae (transcr. litt.)
+[αβγ] litterae ab editore suppletae (transcr. litt.)
+&lt;strong&gt;αβγ&lt;/strong&gt; litterae suppositae vel superpositae ab editore recognitae et loco suo collocatae (transcr. dipl.)
+α͙β͙γ͙ litterae apographi ab editore mutatae (transcr. litt.)
+[] litterae deperditae cuius numerus definiri potest
+[₍₎] una vel duae litterae deperditae
+[] nulla vel una littera deperdita
+ spatiolum
+| finis vel initium lineae (appar.)</content>
+        <language>conspectus-signorum</language>
+    </dsl>
+    </unit>
+     <unit>
+    <id>pherc-327-conspectus-siglorum</id>
+    <creator>Philodemus || Verhasselt, Gertjan</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Signorum || PHerc. 327</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content>P PHerc. 327
+O apographum Oxoniense PHerc. 327
+N apographum Neapolitanum PHerc. 327
+cr. Italice ‘cornice’
+pz. Italice ‘pezzo’
+Amendola D. Amendola per verba
+Cavalieri M. C. Cavalieri, La Rassegna dei filosofi di Filodemo: scuola eleatica ed abderita (PHerc 327) e scuola pitagorica (PHerc 1508)?, «PapLup», 11, 2002, 17-53
+Crönert W. Crönert, Kolotes und Menedemos, Lipsiae 1906 («Studien zur Palaeographie und Papyruskunde», 6), 127-130
+Fleischer K. Fleischer per verba
+Lucarini C. M. Lucarini per litteras
+Malafronte R. Malafronte per verba
+Puglia E. Puglia per verba
+Ranocchia G. Ranocchia per verba
+Ranocchia 2019 G. Ranocchia, A New End-Title in the Herculaneum Papyri and the First Case of a Preserved subscriptio in One of the Books Assigned to Philodemus’ Systematic Arrangement of the Philosophers (PHerc. 327), «Mnemosyne», IV, 72, 2019, 437-458
+Vassallo Ch. Vassallo, The Presocratics at Herculaneum. A Study of Early Greek Philosophy in the Epicurean Tradition. With an Appendix on Diogenes of Oinoanda’s Criticism of Presocratic Philosophy, Berlin-Boston 2021 («Studia Praesocratica», 11)
+VH&lt;sup&gt;2&lt;/sup&gt; VIII Herculanensium voluminum quae supersunt. Collectio altera, VIII, Neapoli 1873, 197-199
+* ego</content>
+        <language>conspectus-siglorum</language>
+    </dsl>
+    </unit>
+    </metadata>
     <children>
         <child>fr-01-pherc-327</child>
         <child>fr-02-pherc-327</child>
