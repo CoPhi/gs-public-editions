@@ -51,4 +51,4 @@ The contents of this repository are licensed under the
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 [gs]: https://greekschools.eu
 [gs-logo]: https://greekschools.eu/wp-content/uploads/2021/01/logo-gs.png
-[viewer]: https://6013.greekschools.eu
+[viewer]: https://viewer.greekschools.eu
