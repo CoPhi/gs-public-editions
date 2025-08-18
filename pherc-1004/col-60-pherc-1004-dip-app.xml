@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-60-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474655</createdAt>
+    <title>De rhetorica || Col. 60 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-60-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1 ]  ̣α[ (π, ιγ, γι), (ϲ, ε)        2 α̣  ̣[ (ϲ, θ, ε, ο, ω)        3 c  ̣  ̣ω (π, ιτ), (c, θ, ε, ο)        4]  ̣c̣ (α, λ)        5 ]  ̣  ̣ω inf. horiz., inf. apex        6 ο[  ̣]ν̣  ̣πο  ̣ο̣υ inf. apex, (ν, μ), sup. desc. sicut α, λ, δ, (δ, λ), (ϲ, θ, ε, ο)        7 ]  ̣[ inf. vert., (ο, θ), (υ, κ)        8   ̣ιθεινταπλη̣θ̣  ̣μ vest., (ε, θ, ο, ϲ), sin. sup. vert.        10 c  ̣φ̣ε ̣ν̣ει ̣[ (ο, c), inf. vert. apicata, (ϲ, π)        11 υ  ̣  ̣υ̣ (ν, η), (c, ο, ε, θ)    τ  ̣ [ sup. duo arcus        12 τ̣  ̣ζο̣ντ  ̣ π  ̣c (α, λ), (α, λ), (ω, οι)        13 ]  ̣ε inf. vert.    π  ̣ α̣  ̣  ̣ inf. vert. sicut ρ, ι, (γ, ι), (μ, λλ), (α, λ, ν)        14 ]  ̣τα̣  ̣γ (α, λ, δ), (ν, ω)    μ  ̣ κ̣  ̣ (η, ν), (α, λ)        15 ε̣  ̣α̣[  ̣]ε̣  ̣α̣ (ξ, ζ), (π, ιι, ιγ)    υ  ̣ο vert sicut τ, υ, ι        16 οτ̣ (ν, κ)        ⸌τοι⸍ supra lineam add. librarius    ο  ̣  ̣[ sin. sup. ramus vel arcus, (τ, π)        17  ̣[]ο  ̣  ̣ο (ω, ο), sin. inf. vert., (λ, α, μ), (λ, α, μ)    υ  ̣  ̣[]  ̣  ̣  ̣[ (c, ε), med. vert., (ε, θ), (μ, ω), (π, τ), (ε, θ), med. vert., med. vest.        18  ̣  ̣ν̣α[][ (ε, ο, c, θ), sup. vest., (φ, θ, α)    ]ι̣  ̣ω̣  ̣  ̣κ[]  ̣ο̣ sup. arcus vel horiz., sin. sup. desc., dext. inf. desc., vert., sup. vest., sup. vert.        19 α̣  ̣[] inf. vest., inf. vest.        20 ]τοι[ -1    ]  ̣ vert.        21 ][ -1 dext. sup. ramus
+
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

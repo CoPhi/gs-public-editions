@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-42-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474399</createdAt>
+    <title>De rhetorica || Col. 42 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-42-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1[ +1 inf. vest.        2 ][ +1 inf. vert.        3 ][ +1 (ο, ϲ)        7 ][ +1 (κ, ν)        9 ][ +1 (τ, π), (ο, ϲ)        10 ]ε[ +1 inf. vert., (ο, θ)        12 ][ +1 desc. vel arcus        13 ]οιϲ +1
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

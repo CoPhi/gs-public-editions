@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-65-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474740</createdAt>
+    <title>De rhetorica || Col. 65 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-65-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1 ]ϲου[ +1 (γ, π, τ)        2 ]ενο[ +1 sub lineam apex, (ϲ, ι), sin. sup. horiz. apicata        3 ]ων[ +1 inf. vest., inf. vest.        4 ]ον[][ +1 inf. apex, inf. vert. apicata, sin. inf. horiz.        5 ]ϲοιτο[ +1 (π, η, ν)        6 ]ηγνο[ +1 inf. apex vel arcus        7 ]τιφερε +1 sin. sup. apex        8 ]δεπρ[ +1 (α, λ, μ)        9 αλθειϲ[ +1 sin. vert., sin. inf. vest.        10 ]ν[]μουϲικω[ +1 dext. med. desc.        11 ]υϲποιειν +1        12 ανϲυϲουφ[ +1        13 [] +1 inf. arcus, inf. vert    ω[₍₎]εινο +1 dext. inf. desc.vel arcus        14 μ[]δυϲωμενοι[ +1 (π, τ)        15 ρ[]ενοϲδεϲ[ +1 (μ, λ, ϲ), (τ, π), inf. vert., (ϲ, ε), sup. desc. vel vert.        16 ]ηβαν[ +1 inf. vest., (ε, θ)        17 ]ικ[ +1 dext. inf. horiz. vel arcus        18 ][₍₎]γ +1 sup. arcus, dext. sup. arcus        
+
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

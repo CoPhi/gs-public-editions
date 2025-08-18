@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-96-pherc-1020</id>
+    <creator>Anonymi || Alessandrelli, Michele et Ranocchia, Graziano</creator>
+    <createdAt>1740317295201</createdAt>
+    <title>Stoici Scriptoris anonymi || Col. 96 PHerc. 1020 </title>
+    <target>pherc-1020</target>
+    <children>
+        <child>col-96-pherc-1020-dip-app</child>
+        <child>col-96-pherc-1020-dip-sources</child>
+        <child>col-96-pherc-1020-dip-tr</child>
+        <child>col-96-pherc-1020-lit-app</child>
+        <child>col-96-pherc-1020-lit-tr</child>
+        <child>col-96-pherc-1020-lit-trad</child>
+    </children>
+</unit>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-99-pherc-1020-lit-app</id>
+    <creator>Anonymi || Alessandrelli, Michele et Ranocchia, Graziano</creator>
+    <createdAt>1740317295282</createdAt>
+    <title>Stoici Scriptoris anonymi || Col. 99 PHerc. 1020 || Literary Apparatus</title>
+    <target>col-99-pherc-1020</target>
+    <children/>
+    <dsl>
+        <content>Col. 99   primum edidimus        1 ἂν πρού]‖κοπ̣τε *        8 εἶπε] Sedley        8-9 ϲ̣[α]|ρκάϲ̣αϲ falsa syllabarum divisione scripsit librarius        13 π̣[ο]ν̣εῖν Most, et π̣[α]θ̣εῖν possis        14 Nannini        15 ο̣ὐ̣ κ̣υ̣ριώ̣τατα̣ Gourinat, et ο̣ὐ̣κ̣ ἄ̣ριϲ̣τα {τα̣} possis        17 ο̣ὕτω̣ e.g. *    φυ̣ϲήϲ̣[αϲ e.g. Lucarini        20-21 τ[ι]|ν̣ὰ̣ [κ]ρ[ί]νει Most        23-24 ἀτ[ιμα]ϲόμ̣ε|να e.g. Fleischer</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

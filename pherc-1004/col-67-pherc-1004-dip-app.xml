@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-67-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474774</createdAt>
+    <title>De rhetorica || Col. 67 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-67-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1 [ sin. inf. horiz., vest.        2 ω⌈ (ν, κ, η), sup. desc.    ⌈ϲ⌉ N: [P]        4 ⌈ν⌉ (α, λ, μ), vert., (ϲ, ε, ο) Npc: [ sin. inf. vert. P: ν[ Nac    ⌉[ sup. vest.        5 ι (ο, ϲ)    ⌈ο⌉ N: [P]    ⌈φ⌉ N:  (φ, ϲ, ο, ω, ε, θ) P        6 ⌈π̣⌉ N:  sup. vest. P    ⌈ων⌉ N:  dext. arcus, (ν, κ) P    ⌈φ⌉ N:  (φ, ψ) P    ]ιϲ[ (ϲ, ε), sup. horiz. sicut π, τ, ξ, ζ        7 γλογου̣[ (κ, χ), inf. vest., inf. vert. et sup. vert., sup. vest.        8 ⌈υϲ⌉ N: ] inf. vest. P    ⌈ο̣⌉ N:  sin. arcus P        9 ⌈τ⌉ N:  (τ, γ) P        10 φρ̣ (ε, θ)    ⌈⌉ (π, γ) N:  sup. vert. P    ][ dext. inf. desc. vel arcus, (ο, ε, ϲ, ω)        11 ι[]ε̣[ sin. inf. vest., (υ, κ, χ), sin. arcus vel vert.        12 α (π, τ)    ⌈ιϲχρ⌉ N: [] inf. vest., (ϲ, ε), inf. arcus P    ][ inf. vest.        13 ⌈ι⌉ N:  inf. vest. P    ]ε dext. inf. vest.    ⌈α⌉ N:  (α, λ, χ) P        14 ⌈γ⌉ N: vert cum horiz. coniuncta sicut γ, τ, υ        ρ̣η̣τ̣ου[ (δ, α), (γ, π)        15 ⌈το⌉ N: ] (ο, θ)    ][ sup. arcus vel horiz., sup. vert.        16 αιπ̣[][ (ϲ, κ, ε), (θ, ε)        17 ⌈θ⌉ N:  (θ, ο) P    τ̣[ sin. inf. asc.    ]ο +1        18 ⌈ε⌉ N:  (ε, θ) P        19 ⌈τ⌉ N: [P]        20 in marg. sin. signum aliquod dispicitur sicut coronis    ] (π, γι, τι)        21 ⌈αι⌉ N:  (α, λ), vest. P    ][ (ο, θ)        22 ι[ med. horiz. dext. cum unco coniuncta    ]κ[ +1
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

@@ -1,8 +1,7 @@
-# gs-public-editions
+# PHerc. 1020
 [![GreekSchools Logo][gs-logo]][gs]
 
-This repository hosts the XML documents for the open-access critical edition of the GreekSchools ERC project.
-CophiViewer: [viewer.greekschools.eu][viewer] 
+This repository hosts the XML documents for the open access critical edition of the PHerc 1020 within the GreekSchools ERC project. 
 
 ## About
 The **ERC Advanced Grant 885222-GreekSchools, The Greek Philosophical Schools according to Europe’s Earliest ‘History of Philosophy’: Towards a New Pioneering Critical Edition of Philodemus’ Arrangement of the Philosophers** (European Commission, Horizon 2020, ‘Ideas’, [https://greekschools.eu][gs], *PI: G. Ranocchia*) aims to provide a new critical edition, with introduction and commentary, of Philodemus of Gadara’s Arrangement of the Philosophers, a treatise in several books handed down by eight Herculaneum Papyri.
@@ -31,7 +30,7 @@ The contents of this repository are licensed under the
 
 
 ## Credits
-* Principal Investigator: Graziano Ranocchia, Università di Pisa
+* Principal Investigator: Graziano Ranocchia, Università di Pisa.
 
 * Logo design: Laura Attisani, Consiglio Nazionale delle Ricerche, Istituto di Scienze del Patrimonio Culturale
 
@@ -51,4 +50,3 @@ The contents of this repository are licensed under the
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 [gs]: https://greekschools.eu
 [gs-logo]: https://greekschools.eu/wp-content/uploads/2021/01/logo-gs.png
-[viewer]: https://viewer.greekschools.eu

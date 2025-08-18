@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-62-pherc-1004-lit-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474706</createdAt>
+    <title>De rhetorica || Col. 62 PHerc. 1004 || Literary Apparatus</title>
+    <target>col-62-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>Col. 62    primum edidimus        4-5 [τοιοῦ]|δε *: οὐδέ spat. brevius Hammerstaedt        6 ἐπιμ̣[έλεϲθαι Blank       9 δυν̣άμ[εων *: δυν̣αμ[ένων Blank    φηϲίν *: ἔδει Hammerstaedt        10 ὃ δεῖ *: ἔ̣δει̣ D’Alessio        13 Hammerstaedt        15 [μήν] *: [γάρ] Henry        17 οἱ ἄνδρεϲ e.g. *: οἱ ἄλλοι dubit. Janko        18 ἔρ]γ̣ω[ι] *: λό]γ̣ω[ι] Hammerstaedt        19 τά Hammerstaedt    τῶν ῥητόρ]ω̣ν̣ *: τῶν πόλε]ω̣ν̣ Blank: τῶν πολλ]ῶ̣ν̣ Hammerstaedt
+
+</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

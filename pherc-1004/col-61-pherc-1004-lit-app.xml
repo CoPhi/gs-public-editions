@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-61-pherc-1004-lit-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474689</createdAt>
+    <title>De rhetorica || Col. 61 PHerc. 1004 || Literary Apparatus</title>
+    <target>col-61-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>Col. 61    1 λ]έ̣γ̣ει[ν vel πε]ί̣θ̣ει[ν e.g. Janko        2 Sudhaus        3 νοcηρ[ά Sudhaus, cetera *        3-4 ἡμᾶϲ̣ *        4 CirilloA1        8 Sudhaus        9 πείθ[ει]ν CirilloA1    λόγον Sudhaus: λέγον‹τ›’ Janko        13-14 ὑγιαί|νε̣ι̣ν * (ὑγιαί|[νειν] iam CirilloA1)        17 Sudhaus        18 οὐθ]ὲ̣ν [ἄν] Sudhaus, cetera *
+
+</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

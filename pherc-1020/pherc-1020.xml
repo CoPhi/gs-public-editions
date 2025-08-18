@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>pherc-1020</id>
+    <creator>Stoicus Scriptor Anonymus || Alessandrelli, Michele et Ranocchia, Graziano</creator>
+    <createdAt>1740317295132</createdAt>
+    <title>[Opus incertum] || PHerc. 1020</title>
+    <target/>
+    <metadata>
+        <unit>
+    <id>pherc-1020-conspectus-signorum</id>
+    <creator>Anonymi || Alessandrelli, Michele et Ranocchia, Graziano</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Signorum || PHerc. 1020</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content> litterae incertae cuius numerus definiri potest vel litterae dubiae quae aliter legi possunt 
+α̣β̣γ̣ litterae certae sed haud integrae (transcr. dipl.) vel litterae dubiae quae aliter legi possunt (transcr. litt.)
+[] litterae deperditae 
+[₍₎] una vel duae litterae deperditae
+[] parva vel nulla littera deperdita
+⟦αβγ⟧ litterae a librario deletae
+⸌αβγ⸍ litterae a librario additae
+{αβγ} litterae ab editoribus deletae
+‹αβγ› litterae ab editoribus additae
+ªαβγº litterae ab editoribus suppletae
+&lt;strong&gt;αβγ&lt;/strong&gt; litterae suppositae vel suprapositae ab editoribus recognitae et loco suo collocatae
+α//β duae partes eiusdem versus e fragmentis diversis coniunctae
+⸆ spatium vacuum
+ spatiolum
+z signum quo librarius spatium explevit
+| finis vel initium versus (appar.)
+|| finis vel initium columnae (appar.)</content>
+        <language>conspectus-signorum</language>
+    </dsl>
+    </unit>
+     <unit>
+    <id>pherc-1020-conspectus-siglorum</id>
+    <creator>Anonymi || Alessandrelli, Michele et Ranocchia, Graziano</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Signorum || PHerc. 1020</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content>P PHerc. 1020
+cr. Italice ‘cornice’
+pz. Italice ‘pezzo’
+
+Cavini W. Cavini per verba
+Ferrari F. Ferrari per verba
+Fleischer K. Fleischer per verba
+Gourinat J.-B. Gourinat per verba
+Lucarini C.M. Lucarini per litteras
+Most G. Most per verba
+Nannini S. Nannini per verba
+Sedley D. Sedley per litteras
+Vassallo Ch. Vassallo per verba vel per litteras
+* nos</content>
+        <language>conspectus-siglorum</language>
+    </dsl>
+    </unit>
+    </metadata>
+    <children>
+        <child>col-96-pherc-1020</child>
+        <child>col-97-pherc-1020</child>
+        <child>col-98-pherc-1020</child>
+        <child>col-99-pherc-1020</child>
+        <child>col-100-pherc-1020</child>
+        <child>col-101-pherc-1020</child>
+        <child>col-102-pherc-1020</child>
+        <child>col-103-pherc-1020</child>
+    </children>
+</unit>

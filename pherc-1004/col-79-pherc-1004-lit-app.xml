@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-79-pherc-1004-lit-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474958</createdAt>
+    <title>De rhetorica || Col. 79 PHerc. 1004 || Literary Apparatus</title>
+    <target>col-79-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>Col. 79    primum edidimus    3 ἄν]οιαν *: ἔνν]οιαν spat. longius Janko        4-5 Hammerstaedt        6 πρ̣[ό]κ̣[ει]ται Hammerstaedt        7 τ]ό̣ τ̣ι̣νων Hammerstaedt        9 ο̣ὐ̣ τ̣ῶι Hammerstaedt        11 ‹τόν› Henry        14 ἀγν̣[οεῖ] Janko: ἀγν̣[οοῦϲιν] spat. longius Hammerstaedt        16-17 ἐξ̣ε[ν]ε̣[γ]|κε̣[ῖν *: ἐξ̣ε[υ]ρ̣[η]|κέ̣[ν’ Janko        20  ἀνεϲ]τ̣αλ̣κέναι *: ἐξεϲ]τ̣αλ̣κέναι Janko        21 ἐπιτ]εύξει vel ἀποτ]εύξει vel ἐντ]εύξει e.g. *
+</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

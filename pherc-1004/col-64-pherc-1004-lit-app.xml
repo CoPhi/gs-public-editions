@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-64-pherc-1004-lit-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474738</createdAt>
+    <title>De rhetorica || Col. 64 PHerc. 1004 || Literary Apparatus</title>
+    <target>col-64-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>Col. 64   3 Sudhaus        5 ματαίαν add. librarius        6 ⟦ὑπόκωφον ἦν οὐτ’ η⟧ del. librarius        7 τά γ̣ε Fiorillo: τά τ̣ε Armstrong, cetera Sudhaus        8 Sudhaus        9-10 [μη]|δέ Sudhaus: [οὐ]|δέ Blank        10-11 ἐ[πι]|κ{α}ρ̣‹α›τ̣εῖν *: ἐ[ᾶι] | κάπ̣τ̣ειν Henry: ἐ[ᾶι] | κρ̣α̣τ̣εῖν Blank, cetera Cirillo        12-16 Cirillo        17-18 λε[ί]|π̣ων *: λέ|[γ]ων Sudhaus        18 ἐποίε̣ι̣ *: ἐποιε[ῖ]τ’ Sudhaus)        19 Cirillocpc        20 Sudhaus        21 πέφ[υκε Sudhaus: πέφ[ηνε Janko, cetera Sudhaus        23 πρὸ]ϲ̣ δ̣[έ] *, cetera Sudhaus
+</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

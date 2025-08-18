@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>fr-53-pherc-1508-dip-app</id>
+    <creator>Philodemus || Avdoulou, Eleni</creator>
+    <createdAt>1740595973032</createdAt>
+    <title>Index Pythagoreorum || Fr. 53 PHerc. 1508 || Diplomatic Apparatus</title>
+    <target>fr-53-pherc-1508</target>
+    <children/>
+    <dsl>
+        <content>4 α[ dext. inf. vest. vel vert., sup. vest. et dext. sup. vest. et dext. inf. desc., sin. inf. asc. et dext. vest., vert.    fin. sub linea ter superpos. 2 litt.        5 fin. bis superpos. 3 litt.        6 fin. quater superpos. litt. unius        8 ω[ sin. inf. vest.    fin. supra lineam ter superpos. litt. unius        9 ]α̣[ dext. med. asc., (φ, ψ), sin. inf. vest.    fin. suppos. 2 litt. et ter superpos. 2 litt.        10 ]δε[ sup. vest., (η, α), med. vest.    fin. super lineam ter superpos. 2 litt.        11 α̣[ dext. sup. horiz., vert.        12 fin. supra lineam ter superpos. 4 litt.        13 ]ε dext. sup. vest.    fin. supra lineam ter superpos. 3 litt.        14 ][ sin. inf. asc.    post.  quater superpos. unius vel 2 litt. et ter superpos. 3 litt.
+
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

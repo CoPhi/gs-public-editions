@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>fr-01-pherc-1508</id>
+    <creator>Philodemus || Avdoulou, Eleni</creator>
+    <createdAt>1740310145300</createdAt>
+    <title>Index Pythagoreorum || Fr. 1 PHerc. 1508 </title>
+    <target>pherc-1508</target>
+    <children>
+        <child>fr-01-pherc-1508-dip-app</child>
+        <child>fr-01-pherc-1508-dip-sources</child>
+        <child>fr-01-pherc-1508-dip-tr</child>
+    </children>
+</unit>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-35-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740254371703</createdAt>
+    <title>De rhetorica || Col. 35 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-35-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1 ] -3 sup. vert., asc.    ε[ -1 (κ, ν), sin. inf. vert.    ]λ[ -1        2 ][ -3 (ζ, δ)    ]η[ -3    ][ -1 asc.    ]λ[ -1        3 ]ηκο[ -3 (ϲ, θ, ε, ο), inf. vert.    ][ -1 (ν, κ)    ]ν[ -1 sup. arcus        4 ][ -3 inf. vert.    ]ωνε -3    [ -1 (η, ν)    ]ο[ -1 inf. arcus, (η, π, τ), desc., inf. vest.        5 ]ιδικ[ -3 (η, π, γι, τι), inf. vert. vel asc.    ]ωπα[ -1 (ϲ, γ), (η, γ, τι)    ]ν -2        6 ]διετελ[ -3 (ε, ο, ϲ, θ)    αιλ -2    ε -1    γων -2        7 ]αυτων -3    εω[₍₎]αν -2 (ν, α, λ, χ, κ), vert., vert.        8 ]πενουθετ-3 (ι, η), (ε, ο, ω, ϲ, θ)    ροντιρο -2 inf. apex, (π, τ)        9 ]α[ -3 (κ, η), (λ, α, δ), sup. vest.    ]οϲεωιϲεν -2 (ω, ο, ι)        10 ]νεικτατοο -2 (ο, ϲ)        11 ]ϲθοπερεν[]ι -2 (ω, ν), (δ, α, λ), (ϲ, ε)        12 ]ωϲεπαθ[ -2 (λ, κ, γ), (ε, θ, ο, ω), sup. et inf. vert.    ][ -1 (τ, γ, π), inf. asc. vel vert.        13 ]ω[ -2 (γ, τ, π)    ]ϲτην[ -2 (μ, λι, λϲ)    ]ηϲη-1 (δ, λ)        14 ]λειτιητε[ -2 (κ, χ)        15 ]τ[][ -2 (ω, ν, ι), sin. sup. vert., (κ, χ, υ, ιϲ, ιθ, ιο, ιε)    ]δνα -1 (ο, ω), (υ, ι, γ), (ϲ, ο)        16 ] -2 inf. vest.    [ -1 inf. desc., inf. vert., (α, χ, λ)    ]ε -1 (γ, τ)        17 ][ -2 (α, λ, δ, χ)    ][ -1 sup. vert., inf. vert., med. vest., sup. vert.    ν -1        18 ][ -1 inf. vest.    ] -1 inf. vert., (ε, θ, ο, ϲ)
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>
