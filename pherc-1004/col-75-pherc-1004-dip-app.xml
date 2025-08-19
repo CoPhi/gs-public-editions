@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-75-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474886</createdAt>
+    <title>De rhetorica || Col. 75 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-75-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1 ] ̣χ[ sub lineam vest.    δ̣  ̣  ̣[ (ε, c, θ, ο), vest.        2 ]ε dext. sup. vest.        3 ε̣  ̣  ̣δ sup. vert., vert. et inf. vest.        4 ]  ̣[  ̣]  ̣ι sub lineam asc., vest.        5 ]  ̣  ̣μ  ̣νχ  ̣ρ sup. vest., (ο, θ, ω), (ε, ο, θ, c), (α, λ, δ)        6 ] ̣ ̣ιν ̣ο (π, ιθ, ιε), (ω, ο), sup. arcus        7 ]  ̣  ̣[  ̣  ̣]  ̣  ̣  ̣φ inf. vert., horiz., vert. cum horiz. coniuncta, sin. desc., (η, ιc, ν)        8 ]  ̣ι sup. vest.        9 ]  ̣[ sup. vest.        10 ]  ̣ ι̣α̣[  ̣]η  ̣ρ (δ, λ, α), (c, ο)        11 ν̣  ̣ν inf. vest.        12 ] ̣τ̣ sup. vert.        14 ]γ (ο, αι, λι)        16 ]  ̣θαιρε  ̣ dext. sup. vest., sin. sup. uncus        19 ] ̣ξ̣ι ̣[ inf. vert. cum horiz. coniuncta, sup. vest.
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

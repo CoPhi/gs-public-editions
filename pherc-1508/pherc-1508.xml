@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>pherc-1508</id>
+    <creator>Philodemus || Avdoulou, Eleni</creator>
+    <createdAt>1740310145246</createdAt>
+    <title>[Index Pythagoreorum] || PHerc. 1508 (TM 62480)</title>
+    <target/>
+    <metadata>
+        <unit>
+    <id>pherc-1508-conspectus-signorum</id>
+    <creator>Philodemus || Avdoulou, Eleni</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Signorum || PHerc. 1508</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content> litterae incertae cuius numerus definiri potest
+α̣β̣γ̣ litterae certae sed haud integrae (transcr. dipl.) vel litterae dubiae quae aliter legi possunt (transcr. litt.)
+⌈αβγ⌉ litterae lectae a Crönert in fragmentis nunc deperditis
+⟦αβγ⟧ litterae a librario deletae (transcr. dipl.)
+⸌αβγ⸍ litterae a librario additae (transcr. dipl.)
+[αβγ] litterae ab editore suppletae (transcr. litt.)
+α͙β͙γ͙ litterae lectae a Crönert in fragmentis nunc deperditis ab editore mutatae (transcr. litt.)
+[] litterae deperditae cuius numerus definiri potest
+[₍₎] una vel duae litterae deperditae
+[] nulla vel una littera deperdita
+__ paragraphos
+⤚ diple obelismene
+⸆ spatium vacuum
+ finis vel initium lineae (appar.)
+‖ finis columnae (appar.)</content>
+        <language>conspectus-signorum</language>
+    </dsl>
+    </unit>
+     <unit>
+    <id>pherc-1508-conspectus-siglorum</id>
+    <creator>Philodemus || Avdoulou, Eleni</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Signorum || PHerc. 1508</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content>P PHERC. 1508
+cr. Italice ‘cornice’
+pz. Italice ‘pezzo’
+
+Battezzato L. Battezzato per verba
+Cavalieri M.C. CAVALIERI, La Rassegna dei filosofi di Filodemo: scuola eleatica ed abderita (PHerc. 327) e scuola pitagorica (PHerc. 1508)?, «PapLup», 11, 2002, 17-53.
+Colomo D. Colomo per litteras
+Crönert W. CRÖNERT, Kolotes und Menedemos, Leipzig 1906 («Studien zur Palaeographie und Papyruskunde», 6), 131.
+Fleischer K. Fleischer per verba
+Lucarini C.M. Lucarini per verba
+Malafronte R. Malafronte per verba
+Puglia E. Puglia per verba
+Ranocchia G. Ranocchia per verba
+Schorn S. Schorn per verba
+Verhasselt G. Verhasselt per verba
+Vassallo C. VASSALLO, The Presocratics at Herculaneum. A Study of Early Greek Philosophy in the Epicurean Tradition. With an Appendix on Diogenes of Oinoanda’s Criticism of Presocratic Philosophy, Berlin-Boston 2021 («Studia Praesocratica», 11), 219.
+Vassallo C. Vassallo per verba
+Wehrli F. WEHRLI, Die Schule des Aristoteles. Texte und Kommentar. Heft II: Aristoxenos, Basel-Stuttgart, 1967².
+* nos</content>
+        <language>conspectus-siglorum</language>
+    </dsl>
+    </unit>
+    </metadata>
+    <children>
+        <child>fr-01-pherc-1508</child>
+        <child>fr-02-pherc-1508</child>
+        <child>fr-03-pherc-1508</child>
+        <child>fr-04-pherc-1508</child>
+        <child>fr-05-pherc-1508</child>
+        <child>fr-06-pherc-1508</child>
+        <child>fr-07-pherc-1508</child>
+        <child>fr-08-pherc-1508</child>
+        <child>fr-09-pherc-1508</child>
+        <child>fr-10-pherc-1508</child>
+        <child>fr-11-pherc-1508</child>
+        <child>fr-12-pherc-1508</child>
+        <child>fr-13-pherc-1508</child>
+        <child>fr-14-pherc-1508</child>
+        <child>fr-15-pherc-1508</child>
+        <child>fr-16-pherc-1508</child>
+        <child>fr-17-pherc-1508</child>
+        <child>fr-18-pherc-1508</child>
+        <child>fr-19-pherc-1508</child>
+        <child>fr-20-pherc-1508</child>
+        <child>fr-21-pherc-1508</child>
+        <child>fr-22-pherc-1508</child>
+        <child>fr-23-pherc-1508</child>
+        <child>fr-24-pherc-1508</child>
+        <child>fr-25-pherc-1508</child>
+        <child>fr-26-pherc-1508</child>
+        <child>fr-27-pherc-1508</child>
+        <child>fr-28-pherc-1508</child>
+        <child>fr-29-pherc-1508</child>
+        <child>fr-30-pherc-1508</child>
+        <child>fr-31-pherc-1508</child>
+        <child>fr-32-pherc-1508</child>
+        <child>fr-33-pherc-1508</child>
+        <child>fr-34-pherc-1508</child>
+        <child>fr-35-pherc-1508</child>
+        <child>fr-36-pherc-1508</child>
+        <child>fr-37-pherc-1508</child>
+        <child>fr-38-pherc-1508</child>
+        <child>fr-39-pherc-1508</child>
+        <child>fr-40-pherc-1508</child>
+        <child>fr-41-pherc-1508</child>
+        <child>fr-42-pherc-1508</child>
+        <child>fr-43-pherc-1508</child>
+        <child>fr-44-pherc-1508</child>
+        <child>fr-45-pherc-1508</child>
+        <child>fr-46-pherc-1508</child>
+        <child>fr-47-pherc-1508</child>
+        <child>fr-48-pherc-1508</child>
+        <child>fr-49-pherc-1508</child>
+        <child>fr-50-pherc-1508</child>
+        <child>fr-51-pherc-1508</child>
+        <child>fr-52-pherc-1508</child>
+        <child>fr-53-pherc-1508</child>
+        <child>fr-54-pherc-1508</child>
+        <child>fr-55-pherc-1508</child>
+        <child>fr-56-pherc-1508</child>
+        <child>fr-57-pherc-1508</child>
+        <child>fr-58-pherc-1508</child>
+        <child>fr-59-pherc-1508</child>
+        <child>fr-60-pherc-1508</child>
+        <child>fr-61-pherc-1508</child>
+        <child>fr-62-pherc-1508</child>
+        <child>fr-63-pherc-1508</child>
+        <child>fr-64-pherc-1508</child>
+        <child>fr-65-pherc-1508</child>
+        <child>fr-66-pherc-1508</child>
+        <child>fr-67-pherc-1508</child>
+        <child>fr-68-pherc-1508</child>
+        <child>fr-69-pherc-1508</child>
+        <child>fr-70-pherc-1508</child>
+        <child>fr-71-pherc-1508</child>
+        <child>fr-72-pherc-1508</child>
+        <child>fr-73-pherc-1508</child>
+        <child>fr-74-pherc-1508</child>
+        <child>fr-75-pherc-1508</child>
+        <child>fr-76-pherc-1508</child>
+        <child>fr-77-pherc-1508</child>
+        <child>fr-78-pherc-1508</child>
+        <child>fr-79-pherc-1508</child>
+        <child>fr-80-pherc-1508</child>
+    </children>
+</unit>

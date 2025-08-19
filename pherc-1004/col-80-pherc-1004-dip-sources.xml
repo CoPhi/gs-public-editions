@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-80-pherc-1004-dip-sources</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474960</createdAt>
+    <title>De rhetorica || Col. 80 PHerc. 1004 || Diplomatic Sources</title>
+    <target>col-80-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>Col. 80   PHerc. 1004, cr. 4, pz. 1, fr. 8 et superpos. ibid. col. 77 et bis superpos. ibid. col. 75 collocata = N fr. 8 = VH2 III 111 = fr. 8 Sudhaus</content>
+        <language>gs-sources</language>
+    </dsl>
+</unit>

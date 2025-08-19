@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-71-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474836</createdAt>
+    <title>De rhetorica || Col. 71 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-71-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1 ]μ[ +2    ][ +1 asc.        2 ]α[ +2 dext. sup. horiz.    [ +1 inf. vert., inf. arcus vel bracchium, (ο, β)        3 ]ανε[ +1 inf. vest., inf. vest., (ε, θ), vert.        4 ]οι[ +1        5 ][]ρα +2 (ϲ, ε), sin. sup. arcus, (ο, ε, θ, ϲ)        6 ][₍₎]υτ[ +2 sup. vest., sin. ramus, desc., (ο, θ, ω), inf. arcus, sup. arcus        7 ]α[]ωιϲχ[ +2 dext. sup. arcus, (γ, ρ, π)        8 ορω[]φοικ+2 (τ, π, γ), sin. inf. vert., sup. arcus        9 ]α[₍₎][ +2 (δ, β), (π, τι, γι), sup. vest.        10 ]ε[]α[ +2 inf. vest., (ϲ, ε), (ϲ, ο), (ζ, δ), inf. arcus    ]ναιδ[ -1        11 ]υϲινα[ +2 (κ, ν)        12 ]μ[ +2 sup. horiz., inf. desc., sup. asc.        13 ]ω[]ϲυϲ[ +2 sin. inf. desc. vel arcus        14 ][ +2 inf. uncus        15[ +2 inf. vest.        16 ]ε +1        17 ][]+1 sup. horiz., (ο, ϲ), sup. arcus        18 ]αι+1 (τ, γ, π)
+
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

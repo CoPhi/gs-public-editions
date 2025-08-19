@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>pherc-1004</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740254371626</createdAt>
+    <title>[De rhetorica] || PHerc. 1004 (TM 62436)</title>
+    <target/>
+        <metadata>
+        <unit>
+    <id>pherc-1004-conspectus-signorum</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Signorum || PHerc. 1004</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content>α̣β̣γ̣ litterae dubiae quae aliter legi possunt
+⌈αβγ⌉ litterae alterutrius vel utriusque apographi
+⟦αβγ⟧ litterae a librario deletae
+⸌αβγ⸍ litterae a librario additae
+{αβγ} litterae ab editoribus deletae
+‹αβγ› litterae ab editoribus additae
+[αβγ] litterae ab editoribus suppletae
+&lt;strong&gt;αβγ&lt;/strong&gt; litterae suppositae vel superpositae ab editoribus recognitae et loco suo col-locatae
+α͙β͙γ͙ litterae apographi ab editoribus mutatae
+⌊αβγ⌋ litterae e fonte gemino ab editoribus suppletae
+[] litterae deperditae
+[₍₎] una vel duae litterae deperditae
+[] nulla vel una littera deperdita
+̲  ̲  ̲  ̲  paragraphos
+ diple obelismene
+⸆ spatium vacuum
+ spatiolum
+| finis vel initium versus (appar.)
+|| finis vel initium columnae (appar.)
+α//β duae partes eiusdem versus e fragmentis diversis coniunctae</content>
+        <language>conspectus-signorum</language>
+    </dsl>
+    </unit>
+     <unit>
+    <id>pherc-1004-conspectus-siglorum</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1687878884401</createdAt>
+    <title>Conspectus Signorum || PHerc. 1004</title>
+    <target>pherc</target>
+    <children/>
+    <dsl>
+        <content>P PHerc. 1004
+O apographum Oxoniense PHerc. 1004
+N apographum Neapolitanum PHerc. 1004
+Nᵃᶜ lectio N ante correctionem
+Nᵖᶜ lectio N post correctionem
+cr. Italice ‘cornice’
+pz. Italice ‘pezzo’
+
+Alessandrelli M. Alessandrelli per verba
+Armstrong D. Armstrong per litteras vel per verba
+Avdoulou E. Avdoulou per verba
+Blank D. Blank per verba
+Cirillo [S. Cirillo], [Transcriptiones et adnotatiotes ineditae PHerc. 1004], Neapoli 1851-1857, 4 series, Archivio dell’Officina dei Papiri XXI/2, 1-310
+Cirilloᴬ⁽¹⁾ Cirillo, quarta series (primus fasc.)
+Cirilloᶜ⁽¹ ⁴ ⁵⁾⁽ˢᵘᵖ ⁱⁿᶠ⁾⁽ᵃᶜ ᵖᶜ⁾ Cirillo, tertia series (primus vel quartus vel quintus fasc.) (supra vel infra) (ante aut vel correctionem) 
+Cirilloᴰ⁽¹ ⁶⁾⁽ᵃᶜ ᵖᶜ⁾ Cirillo, prima series (primus vel sextus fasc.) (ante vel post correctionem)
+D’Alessio G.B. D’Alessio per litteras
+Delattre D. Delattre per verba
+Essler H. Essler per litteras vel per verba
+Fiorillo M. Fiorillo, Errori e correzioni nel PHerc. 1004 (Filodemo, Retorica VII), CErc, 43 (2013), 35-61
+Hammerstaedt J. Hammerstaedt per verba
+Henry B.W. Henry per litteras vel per verba
+Iovine G. Iovine per verba
+Janko R. Janko per litteras vel per verba
+Mayer A. Mayer, Aristonstudien, Philologus, Suppl. XI, 1907-1910
+McOsker M. McOsker per verba
+Messeri G. Messeri per litteras
+Privitera I. Privitera per verba
+Puglia E. Puglia per litteras vel per verba
+Sudhaus S. Sudhaus (ed.), Philodemi Volumina Rhetorica, I, Lipsiae: Teubner, 1892, 325-385
+VH² III Herculanensium voluminum quae supersunt. Collectio altera, III, Neapoli: e Museo publico, 1864, 110-209</content>
+        <language>conspectus-siglorum</language>
+    </dsl>
+    </unit>
+    </metadata>
+    <children>
+        <child>col-32-pherc-1004</child>
+        <child>col-35-pherc-1004</child>
+        <child>col-36-pherc-1004</child>
+        <child>col-37-pherc-1004</child>
+        <child>col-38-pherc-1004</child>
+        <child>col-39-pherc-1004</child>
+        <child>col-40-pherc-1004</child>
+        <child>col-41-pherc-1004</child>
+        <child>col-42-pherc-1004</child>
+        <child>col-43-pherc-1004</child>
+        <child>col-44-pherc-1004</child>
+        <child>col-45-pherc-1004</child>
+        <child>col-46-pherc-1004</child>
+        <child>col-48-pherc-1004</child>
+        <child>col-49-pherc-1004</child>
+        <child>col-50-pherc-1004</child>
+        <child>col-51-pherc-1004</child>
+        <child>col-52-pherc-1004</child>
+        <child>col-53-pherc-1004</child>
+        <child>col-55-pherc-1004</child>
+        <child>col-57-pherc-1004</child>
+        <child>col-58-pherc-1004</child>
+        <child>col-59-pherc-1004</child>
+        <child>col-60-pherc-1004</child>
+        <child>col-61-pherc-1004</child>
+        <child>col-62-pherc-1004</child>
+        <child>col-63-pherc-1004</child>
+        <child>col-64-pherc-1004</child>
+        <child>col-65-pherc-1004</child>
+        <child>col-66-pherc-1004</child>
+        <child>col-67-pherc-1004</child>
+        <child>col-68-pherc-1004</child>
+        <child>col-69-pherc-1004</child>
+        <child>col-70-pherc-1004</child>
+        <child>col-71-pherc-1004</child>
+        <child>col-72-pherc-1004</child>
+        <child>col-73-pherc-1004</child>
+        <child>col-74-pherc-1004</child>
+        <child>col-75-pherc-1004</child>
+        <child>col-76-pherc-1004</child>
+        <child>col-77-pherc-1004</child>
+        <child>col-78-pherc-1004</child>
+        <child>col-79-pherc-1004</child>
+        <child>col-80-pherc-1004</child>
+        <child>col-81-pherc-1004</child>
+        <child>col-82-pherc-1004</child>
+        <child>col-83-pherc-1004</child>
+        <child>col-84-pherc-1004</child>
+        <child>col-85-pherc-1004</child>
+    </children>
+</unit>

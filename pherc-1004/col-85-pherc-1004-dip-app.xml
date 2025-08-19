@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-85-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682475046</createdAt>
+    <title>De rhetorica || Col. 85 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-85-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1 υ[ inf. vert.        2 ][]φ̣ε̣ρει[]τ̣ sup. horiz., (ν, π, γ), (ϲ, ε)        3-4 partem dext. postremae litt. utriusque versus in inf. versum esse translatam intell. Henry        3 ]τ (ε, ϲ, κ), vest.        4 ]⌈ inf. vest., med. vest.    ⌈α̣⌉ N:  (α, λ) P    ]τ sup. ramus        5 ]τ (α, ο), (λ, α, δ, μ), sup. desc., (ο, θ), sup. apex, dext. inf. arcus vel horiz.    ⌈ορθ⌉ N: [ (ο, θ, ϲ, ε), (ρ, φ, ψ) P        6 ]α (τ, π)    ε (ι, ρ)        7 ]νφινεταιτ̣ν̣ inf. vest., (λ, α, δ), (ο, ε)        8 ]⌈ (ϲ, ε)    ⌈ρη⌉ N: [P]    ϲογν (λ, α), dext. med. arcus        9 ]ε sup. vest.    ⌈ε⌉ N:  (ε, ϲ, ρ, β) P    νε (π, γ)        10 in marg. sin. coronis +1    [ +1 vert., (ο, ϲ, ω)    ⌈ρ⌉[]⌈τ⌉ N: [] sin. sup. vert., inf. vert. P    ⌈λ⌉ N:  (λ, α, δ) P        11  +1 (ο, ε, θ, ϲ)    ⌈δ⌉ N:  sup. vest. P        12 οι[ +1    ]⌈ (ο, θ, ϲ, ε)    ⌈μ⌉ N:  sin. sup. vest. P        13 ⌈τ⌉ N:  (τ, π) P        14 ⌈ιω⌉ Nac: ] inf. arcus P: ⌈ιϲο⌉ Npc    ]α, (τ, γ, π)        15 ][]α̣τ vert., (τ, γ, π), vest., (λ, α, δ), (α, λ)    ι (ο, α)        16 ][ sup. vest., (π, κ, ιϲ)        17 ⌈εν⌉ N: ] vert. P    αδ (λ, α, δ, μ), (λ, α, μ), (α, λ, δ)        18 ρ[ +2    ⌈βα⌉ N:  (b, r), (a, l, d) P    ⌈ν⌉ N:  (ν, η, ιι) P        19 [ +2 (ϲ, ο)    κ[ med. vert., sin. inf. asc.    ] sup. horiz. vel arcus
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

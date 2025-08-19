@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-98-pherc-1020-dip-app</id>
+    <creator>Anonymi || Alessandrelli, Michele et Ranocchia, Graziano</creator>
+    <createdAt>1740317295249</createdAt>
+    <title>Stoici Scriptoris anonymi || Col. 98 PHerc. 1020 || Diplomatic Apparatus</title>
+    <target>col-98-pherc-1020</target>
+    <children/>
+    <dsl>
+        <content>1 ετ[ +1 (π, τ), (α, δ)    π̣[ sup. desc.    α̣ (δ, ζ), (ε, θ)        2 μ̣ε̣ε̣[ +1 (τ, ι, υ), (ι, κ, ν, η)    ]ιμ̣ν̣ (τ, π, ξ), (α, λ, ϲ, χ)        3 ανε̣ξ̣[ +1    ]φ (η, ι, ν, π)    εα̣ (ν, η, ι), (κ, η)         4 [ +1 (λ, α, ν), dext. inf. apex, inf. vert.    ο[ sin. sup. uncus        5 ]ν̣[ +1 (τ, π, υ), (ο, ε, ϲ, θ)    ]νγ[]ν (ω, κι, μι, λι), (α, λ), (υ, ι, η)        6 ]ντ̣ω̣[ +1    ν̣[ (α, λ), med. horiz.        7 με[ +1 (α, λ)    ][][] inf. vest., (ϲ, ε, θ, ο) inf. asc., (ν, μ, λ)        8 τ̣α̣[ +1    ]α̣κ̣α̣τ[]ο[ (ϲ, ε), (α, λ, δ, μ), vert. apicata        9 τ[ +1 (α, λ)    ]α̣ sup. vert., (κ, ϲ)    ]οιϲι (π, ν, ι, η), (θ, ο), (ν, η, π, τ, ι), (θ, β, ρ) (α, λ, χ)        10 του̣το +1 vert. apicata    η̣γ̣α̣ρ̣ξ̣ sup. ocellus et horiz., (ο, ε, θ, ϲ), vert., (ε, ο, θ, ϲ)        11 πα̣τ̣α̣τ̣ +1    []π̣ν̣  sup. desc., vest., (α, λ, δ)        12 π̣[]ε̣ιδ +1            13 [ (φ, ψ)    ]νο̣[ (η, ι), (υ, χ), (χ, υ)        14 [ (τ, γ), (α, λ, χ)    ]α inf. vert., (α, λ, κ, χ), (μ, λ, α)        16 ν̣ (τ, γ), (α, λ)    ][ (ε, θ, ξ)    ]ν̣ (ε, ο, θ, ϲ)        17 α[ (ξ, τ, ϲ), sin. sup. uncus    ]ν̣ν̣α̣ (ω, ει, ϲι, οι, θι), (θ, ϲ, ε, ο)        18 νου̣ +1    [ (α, λ, δ, μ), sup. vert.    ]μα̣ε (α, λ), (ρ, υ, γ, τ), vest., (ν, η)        19 εδιαμ̣[ +1    ]α[₍₎]ι (τ, π), (ν, κ), (α, λ)        20 ε̣ -1    ξ[ (α, λ, χ)    μαρ[ +1 (τ, π, ξ)        21 ο -1    [ inf. vest., vest., vest.    ω̣ν +1 (τ, π, ξ, ζ), (ε, ϲ)    ξ[ (α, λ, χ, μ)    ϲ -1 (α, λ, χ)        22 θα[ -1    ]τη̣ν̣ -1        23 οι -1    ][ inf. apex    ]ε̣ιν -1 (π, τ)        24 ι -1    init. [ (ο, ε)    ]π sin. inf. vert. apicata    α[ -1 dext. inf. vest., (τ, π, ξ, ζ)
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

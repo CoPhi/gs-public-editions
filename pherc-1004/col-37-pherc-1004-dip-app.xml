@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-37-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474289</createdAt>
+    <title>De rhetorica || Col. 37 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-37-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1[ -2 inf. apex        2 κ[ -2        3 μ[]μ̣ενε[ -2 (ο, ϲ), (υ, φ), vert., desc., sup. vert., inf. horiz.        4ηνκοινην[ -2 (α, λ, δ), (τ, π)        5 αδ̣υναμιανπ[ -2        6 []θ[]ικαιταϲπαρα[ -2 (ζ, δ, ξ), (ϲ, ε, ω)        7 [ -2 (τ, π)    ]ϲεανϲυ[ -2 sup. vert., (π, τ), (α, λ, δ), inf. vert.        8 ρηικατ̣[ -2    ]ρεφεινπαρα[ -2 (τ, π, γ)        9 ϲι[]ηα[ -2 (κ, λ), (ω, ο), (μ, οι, ει, ϲι, θι), (ν, π, γ, ι)    ]κτ -2 (ε, ξ), (η, ιι), (ϲ, θ, ο, ε), (θ, ϲ, ε, ο)        10 τωιδουδαμ[ -2    ]βα[ -2        11 ]τη[ -2 dext. sup. vest., (γ, π), sup. vest., sup. vest.    ]ωϲε[ -2 (ι, γ, π)        12 ]ηνδιδον[ -2 inf. vert.        13 ][ -2 vert., (ε, θ, ο, ϲ)        14 ][ -2 sup. desc. vel arcus    ]κειαικ[ -2 (ν, κ), (ε, ο), (λ, χ)        15 ]ν[ -2    ]ρεξαναγκ[ -2 sup. asc.        16 ]ν⸌ει⸍[ -2 (ε, θ, ο, ϲ)    ]ηορευι -2 (τ, γ), (ε, θ, ο, ϲ), sup. vest.    υ dext. inf. horiz. vel arcus        17 ]δακν[ -2 (ο, ω), (υ, χ), (ο, ω, θ)    ] (α, ω)        18 ]χο[ -2 med. vert. vel arcus    ]ωτ[ -2 (π, τ), (ο, ε, θ, ϲ), (ρ, υ, χ), (ο, ε)        19 ]αγωμ[ -2 (α, λ, δ)    ]δ -2 vert. vel desc., inf. desc.        20 ]υωτον[ -2 (ο, θ, β), inf. vest., sin. sup. apex    ][ -2 (ϲ, ε), (α, λ, δ)        21 ]ιωκω[ -2 sin. sup. arcus        22 φ[ -2    ][ -2 desc.    ]οϲ[ -2 sup. vert. vel desc.        23 ο[ -2    ][ -2 (γ, π, τ, ν), (η, υ, τ)    ][ -2 (ν, α, λ, δ), inf. vest.
+ 
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

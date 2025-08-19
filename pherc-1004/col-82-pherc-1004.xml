@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-82-pherc-1004</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682475004</createdAt>
+    <title>De rhetorica || Col. 82 PHerc. 1004 </title>
+    <target>pherc-1004</target>
+    <children>
+        <child>col-82-pherc-1004-dip-app</child>
+        <child>col-82-pherc-1004-dip-sources</child>
+        <child>col-82-pherc-1004-dip-tr</child>
+        <child>col-82-pherc-1004-lit-app</child>
+        <child>col-82-pherc-1004-lit-tr</child>
+        <child>col-82-pherc-1004-lit-trad</child>
+    </children>
+</unit>

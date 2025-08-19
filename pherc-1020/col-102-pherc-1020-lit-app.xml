@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-102-pherc-1020-lit-app</id>
+    <creator>Anonymi || Alessandrelli, Michele et Ranocchia, Graziano</creator>
+    <createdAt>1740317295348</createdAt>
+    <title>Stoici Scriptoris anonymi || Col. 102 PHerc. 1020 || Literary Apparatus</title>
+    <target>col-102-pherc-1020</target>
+    <children/>
+    <dsl>
+        <content>Col. 102   primum edidimus        1 ἐν] ‖ βά̣θ̣ε̣[ι e.g. *        6 αὑτοῦ Sedley        8 [φυγῶ]ν Sedley: [κακῶ]ν Lucarini: [ϲοφῶ]ν Vassallo: [ἄλλω]ν Most       9 τ[ί] Sedley        16 [τ]ι̣[ϲ ] κ̣α[τ]ὰ̣ Sedley        17 Sedley        20 {ων} Sedley: {ω}‹οὖ›ν Lucarini        22 τῶν δ̣’ e.g. *: τῶνδ̣’ Most
+</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

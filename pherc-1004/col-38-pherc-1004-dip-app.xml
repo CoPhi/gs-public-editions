@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-38-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474318</createdAt>
+    <title>De rhetorica || Col. 38 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-38-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1 α[ (π, τ), sin. sup. ramus        2 ]τεη[][ inf. vert. apicata, inf. vert., (ν, η, κ), sup. vest.        4 ][][][ vert. vel arcus, (ε, ο, θ, ϲ), (π, τ, γι, τι), vert.        5 ]ϲ[₍₎][ (λ, α), (α, λ), vest.        6 ]ι (ε, ϲ, ξ)    [ -1 (π, ιι, γι, ιγ), (ρ, β)    ] -1 (ϲ, θ, ε, ο)    ]ε (λ, α, χ)        8 ων[ -1 (δ, α, λ), (ε, θ, ο, ϲ, κ, χ)    ]τ̣υ (ρ, φ, ψ), inf. vert., (ο, ε, ϲ, θ)        9 θουϲα[ -1        10 ναιτ[ -1        11 ταϲ -1 sin. sup. horiz. vel arcus    ϲ    inf. asc. vel vert., dext. inf. arcus    τ[ (ε, ϲ)        12 ειϲ -1    νι (ο, ε, θ, ϲ)        13 οιη[ (λ, α, δ), (ο, ε, θ, ϲ), (γ, τ), (τ, υ)        14 αουκαι[]λ (ν, π, γι), (α, λ)        15 ει δυν[ (ν, π, κι, ιι), (ο, θ), (α, λ)        16 ]αε[ (τ, π, γ), (ϲ, ε), (π, τ), (ι, γ, ν, π, ρ)        17 [ sin. sup. apex, (λ, α, δ, μ), (ε, θ, ο, ϲ)
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

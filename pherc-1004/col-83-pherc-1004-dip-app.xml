@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-83-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682475011</createdAt>
+    <title>De rhetorica || Col. 83 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-83-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1 ⌈π⌉ N:  (π, ιτ, ιγ, γγ) P    ⌈⌉ (λ, μ) N:  inf. vest.  P    ο[ (μ, λ)        2 ⌈τ⌉ N:  (τ, υ) P   η̣[]ε̣ι̣ (ϲ, ο, ω), (ρ, γ, ι)    υ̣η̣ sin. sup. arcus        3 ]⌈ dext. inf. vest.    ⌈ε⌉ N:  (ε, θ) P    τ sin. med. arcus        4 οο (ν, η, π)    ⌈ϲ⌉ N:  (ϲ, ε) P        5 ο[ sin. med. vest.    τ (ε, ϲ)        7 λτ (α, λ, δ)        8 ⌈ε⌉ Npc:  (ε, ϲ) P: litt. erasa Nac    ⌈α⌉ Npc:  sup. vest. P: [Nac]    ]ι (α, λ, δ)        9 ν⌈ (η, ν, π)    ⌈ϲ⌉ N:  (ϲ, ε, ο, θ) P    ⌉η (θ, η)        11 α vert.        12 π sup. vest.        13 ι (ϲ, ο)        14 ⌈κ̣⌉ Npc: [P]:  desc. Nac    θ̣[ (α, λ, δ, μ)        15 ]⌈ (υ, χ)    ⌈χο⌉ N:  (χ, υ), (ο, ϲ) P    ⟦α⟧ del. librarius ⸌λ⸍ supra lineam addito    ϲϲ (ο, ϲ, ε, θ), (φ, ρ, ψ), sin. sup. vest.    ⌈λ⌉ N: [P]    ] (ο, ε, θ, ϲ)        16 ]χ[]δ̣ sup. arcus, vest., inf. vert. apicata, (υ, ν, χ)    ν (ω, ο, ε, ϲ, θ)        17 ][][]ρ̣ (π, γι, τ), sup. vest., sup. vest., vest., sup. uncus, vert.    ⌈η⌉ N:  (η, π, κ) P        18 ]ϲ̣εν̣[][ (ϲ, ε), vert., (ρ, φ, ψ, τ), desc.
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

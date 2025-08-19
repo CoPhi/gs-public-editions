@@ -27,7 +27,7 @@ The contents of this repository are licensed under the
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 
-© 2023 [ERC Advanced Grant 885222-GreekSchools][gs] All Rights Reserved.
+© 2025 [ERC Advanced Grant 885222-GreekSchools][gs] All Rights Reserved.
 
 
 ## Credits

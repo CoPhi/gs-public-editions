@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-85-pherc-1004-lit-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682475060</createdAt>
+    <title>De rhetorica || Col. 85 PHerc. 1004 || Literary Apparatus</title>
+    <target>col-85-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>Col. 85   2 ]φέρειν̣ *    ἔ]ϲ̣τιν CirilloC        2-3: δ’ [ὅ|τ]ε̣ *: δ[ὲ | ὅτι] CirilloCpc        3 {} *    πα[ρ]’ Cirillo        3-4 ϲπά|[νι]α̣ *        4 κ̣ατὰ Essler    τῶνδ’ *: τῶν δ’ Henry, cetera idem        5 καὶ] ἄ̣λ̣λ̣ο̣ι̣ϲ̣ D’Alessio: ἐν] ἄ̣λ̣λ̣ο̣ι̣ϲ̣ spat. brevius Lucarini: οὐ π]ο̣λ̣λ̣ο̣ῖ̣ϲ̣ Henry        6 εἴρη]τ̣αι CirilloCac        7 Sudhaus        8-9 ἐπι|[δ]ε̣έϲτερον CirilloCDpc): ἐπι|[με]λ̣έϲτερον spat. longius Messeri        10 το[ῦ Essler, cetera Cirillo        11 ὁ̣ δέ *: ε̣[ἰ] δέ Henry        12 ὑπ]ο̣μνήμαϲιν Cirillo, cetera Usener ap. Sudhaus        12-13 ἐπι|[τρέπει] D’Alessio: ἐπί|[ϲτευεν] Sudhaus: ἐπι|[μέλει] spat. brevius Puglia: ἐπι|[τέτευχ]εν Lucarini (et ἐπι|[τέτραφ]εν cogitaveris): ἐπι|[ϲπέϲθαι] Arnim 1900: ἐπι|[τυχεῖν] Essler: ἐπι|[λεγομ]ένοιϲ Henry        14 πλε]ίω *, et με]ίω cogitaveris: και]ν͙ὰ͙ Lucarini: πιϲ]τ͙ὰ͙ vel κα]λ͙ὰ͙ D’Alessio       15 ἐϲ]τ̣[ι] *: κα]τ̣[ὰ] Fleischer    τ̣ὰ et καὶ *        15-16 ὅ̣|[μωϲ] D’Alessio: Ἀ̣|[ρίϲτων] spat. longius Janko        16 ἐ̣π̣[ὶ] Mayer: ἔ̣τ̣[ι] Fleischer        17 τετραμμ]ένα Lucarini    ἀλ̣λ̣ὰ̣ δὴ * (ἀ[λλὰ] iam Mayer)
+</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

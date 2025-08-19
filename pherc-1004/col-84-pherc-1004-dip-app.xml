@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-84-pherc-1004-dip-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682475031</createdAt>
+    <title>De rhetorica || Col. 84 PHerc. 1004 || Diplomatic Apparatus</title>
+    <target>col-84-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>1 ]η[ +1 (τ, γ)        3 ο̣[ (μ, λ)    ][ +1 (ρ, φ), (κ, ρ), med. arcus vel horiz.        4[ med. vert., (τ, π, ξ, ζ)        5 μ[ (φ, ψ), (ω, ε, θ, ο, ϲ)        8 α (α, δ, λ), (ρ, φ)    ϲ[ (κ, α, λ, χ, κ), inf. apex vel arcus        9 λ[ -1    ]δ[ +1        10 α̣[ sup. vest.        11 π[ (ε, ο, θ, ϲ)        12 ορ +2 (τ, π, ϲ)    ν[ (τ, π, γ), sup. arcus        13 ακ[ +2 (ν, ι)    ]οι[ inf. vert. apicata, (τ, υ, γ), (ρ, π, γ, ν)        14 αϲ[ +2 (κ, ϲ, ε)    ]εγε[ (λ, δ, α, χ), sup. vest.        15 ν[ +2    ]φ̣ sup. vest.        17 αφ[ -1 inf. arcus vel horiz., (υ, χ)    ][ +2 inf. arcus vel horiz.       18 ]δ[ -1    ]ουδετ[ +2 (ξ, δ, ζ)       19 ]ικ[ -1 dext. ramus    ]ειν[ +2 sup. vest., sup. vert., (τ, π, ξ, ζ)             20 ]δ[]ρο[ -1 (ε, θ, κ), (α, λ, δ, κ)    ]ετ[ +2
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

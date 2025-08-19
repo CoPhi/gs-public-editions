@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-60-pherc-1004-lit-app</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474670</createdAt>
+    <title>De rhetorica || Col. 60 PHerc. 1004 || Literary Apparatus</title>
+    <target>col-60-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>Col. 60    primum edidimus   3 ἡ ϲκέ]ψιϲ e.g. D’Alessio: et ἡ μέμ]ψιϲ cogitaveris        3-4 [μα]|κ[ροτέρ]α̣c Hammerstaedt        6 οὐ] τοί̣ν̣[υ]ν Hammerstaedt        5 δεῖται] e.g. *: εἰ καὶ] e.g. D’Alessio        7 ε]ὖ Hammerstaedt        8-9 μᾶ[λλον | τ]ῶν Blank        9-10 [οὐ]|δέ Blank: [τὸ] | δέ Hammerstaedt        14-15 κα̣|[τα]δέξ̣α[ιτ]’ McOsker        16 τοιοῦτ[οι e οὗ̣τ[οι corr. librarius
+</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>

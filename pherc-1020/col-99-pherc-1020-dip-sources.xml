@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-99-pherc-1020-dip-sources</id>
+    <creator>Anonymi || Alessandrelli, Michele et Ranocchia, Graziano</creator>
+    <createdAt>1740317295265</createdAt>
+    <title>Stoici Scriptoris anonymi || Col. 99 PHerc. 1020 || Diplomatic Sources</title>
+    <target>col-99-pherc-1020</target>
+    <children/>
+    <dsl>
+        <content>Col. 99   PHerc. 1020, cr. 3, col. 12 et supraposita a col. 98 usque ad ipsam col. 99 et supposita inter eandem columnam et col. 100 collocata</content>
+        <language>gs-sources</language>
+    </dsl>
+</unit>

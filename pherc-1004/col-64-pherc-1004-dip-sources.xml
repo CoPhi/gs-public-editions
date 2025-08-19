@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-64-pherc-1004-dip-sources</id>
+    <creator>Philodemus || Ranocchia, Graziano et Vassallo, Christian</creator>
+    <createdAt>1740682474724</createdAt>
+    <title>De rhetorica || Col. 64 PHerc. 1004 || Diplomatic Sources</title>
+    <target>col-64-pherc-1004</target>
+    <children/>
+    <dsl>
+        <content>Col. 64   PHerc. 1004, cr. 5, pz. 1, col. 6 = O Cb (2, 446) = N col. 6 = VH2 III 117 = col. 6 Sudhaus</content>
+        <language>gs-sources</language>
+    </dsl>
+</unit>

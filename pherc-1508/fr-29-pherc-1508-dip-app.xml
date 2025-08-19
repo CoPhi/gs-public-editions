@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>fr-29-pherc-1508-dip-app</id>
+    <creator>Philodemus || Avdoulou, Eleni</creator>
+    <createdAt>1740595972502</createdAt>
+    <title>Index Pythagoreorum || Fr. 29 PHerc. 1508 || Diplomatic Apparatus</title>
+    <target>fr-29-pherc-1508</target>
+    <children/>
+    <dsl>
+        <content>1 ⌈α̣να⌉ Crönert: ]ι (α, λ) P        2 ⌈ε̣ν⌉ Crönert: ]ε dext. inf. vest. Ρ    ρ[ (ν, μ)        3 ⌈π̣ρ⌉ Crönert:    ⌉ο[ dext. sup. horiz., (π, γ) P        4 ⌈τηλη⌉ Crönert: [Ρ]        5 ⌈ο̣μ̣α̣ιν̣⌉ Crönert: [Ρ]        6 ⌈ωνξενω̣⌉ Crönert: [Ρ]        7 ⌈κραγαντ⌉ Crönert: [Ρ]        8 ⌈ξενοι⌉ Crönert: [Ρ] 
+
+</content>
+        <language>gs-diplomatic-apparatus</language>
+    </dsl>
+</unit>

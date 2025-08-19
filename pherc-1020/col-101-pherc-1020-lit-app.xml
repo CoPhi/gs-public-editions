@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unit>
+    <id>col-101-pherc-1020-lit-app</id>
+    <creator>Anonymi || Alessandrelli, Michele et Ranocchia, Graziano</creator>
+    <createdAt>1740317295331</createdAt>
+    <title>Stoici Scriptoris anonymi || Col. 101 PHerc. 1020 || Literary Apparatus</title>
+    <target>col-101-pherc-1020</target>
+    <children/>
+    <dsl>
+        <content>Col. 101   primum edidimus        3 ἔ]κ̣τ̣υπ̣ο̣ν *: ἐ]κ̣ τ̣ύπ̣ω̣ν Gourinat       5 [ἱ]κ̣[αν]ό̣ϲ Most        5-6 αἰϲ̣|[θάνεϲθαι Most        7 διάνοια δείκνυϲ]ι̣ν e.g. *        9 π]ᾶ̣ν Most: τ̣[ο παράπ]α̣ν Lucarini        16 τὸ] Most        19 ὡ̣ϲ Lucarini        22 Cavini        23 ϲ[αφήνει]αν e.g. Ferrari        23-24 ἀν[ε]|κλ‹ή›θην vel ἀν[ε]|κλ‹ί›θην e.g. *        24 φ[ηϲί] e.g. *, postea πατρ[ό]ϲ̣ vel πατρ[ί]ϲ̣ cogitaveris         24-25 τ̣η|[λοῦ vel τ̣η|[λόθεν] e.g. *        25 ναῦ̣ν e.g. *
+</content>
+        <language>gs-literary-apparatus</language>
+    </dsl>
+</unit>
